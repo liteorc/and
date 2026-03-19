@@ -1,0 +1,49 @@
+[ 
+  {
+  "date": "2025年8月01日",
+  "activity": {
+    "name": "周年狂欢庆典活动",
+    "description": "活动期间完成任务完成任务获取抽奖券，然后把你珍爱的道具抽回家吧~",
+    "remark": "查看任务详情",
+    "icon": "cloud://images/icon_0801_2",
+    "previews": ["cloud://images/event_0801.jpg"],
+    "rewards": ["selectBox1_resonanceAccessory"]
+  }
+}
+,
+  {
+  "date": "2025年8月07日",
+  "activity": {
+    "name": "探宝寻真活动",
+    "description": "周年庆活动第1弹",
+    "remark": "查看任务详情",
+    "icon": "cloud://images/icon_0807_2",
+    "previews": ["cloud://images/event_0807.jpg"],
+    "rewards": ["cloud://images/HeroPetselectBox.png","cloud://images/item_partyInviteTicket"]
+  }
+}
+,
+  {
+  "date": "2025年8月12日",
+  "activity": {
+    "name": "时装秀活动",
+    "description": "周年庆活动第2弹",
+    "remark": "查看任务详情",
+    "icon": "cloud://images/icon_0812_2",
+    "previews": ["cloud://images/event_0812.jpg"],
+    "rewards": ["selectBox_holyStone.png","cloud://images/item_partyInviteTicket"]
+  }
+}
+,
+  {
+  "date": "2025年8月17日",
+  "activity": {
+    "name": "幸运转盘活动",
+    "description": "周年庆活动第3弹",
+    "remark": "暂无",
+    "icon": "cloud://images/icon_0817_2",
+    "previews": [],
+    "rewards": ["selectBox1_resonanceAccessory.png","cloud://images/item_partyInviteTicket"]
+  }
+}
+]

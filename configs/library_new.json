@@ -1,0 +1,509 @@
+[
+    {
+        "name": "配件",
+        "icon": "../assets/IconAccessory.png",
+        "items": [
+            {
+                "name": "能量制导系统",
+                "icon": "../assets/AccessoryCB3_16.png",
+                "path": "libs/acc_drone.html",
+                "path2": "libs/acc_forcefield.html",
+                "type": "accessory",
+                "badges": [
+                    "../assets/wurenji_A.png",
+                    "../assets/rongjielichang.png"
+                ]
+            },
+            {
+                "name": "重力扩散器",
+                "icon": "../assets/AccessoryCB1_16.png",
+                "path": "libs/acc_molotov.html",
+                "path2": "libs/acc_brick.html",
+                "type": "accessory",
+                "badges": [
+                    "../assets/ranshaodan.png",
+                    "../assets/banzhuan.png"
+                ]
+            },
+            {
+                "name": "骨骼湮灭装置",
+                "icon": "../assets/AccessoryCB2_16.png",
+                "path": "libs/acc_laser.html",
+                "path2": "libs/acc_wheel.html",
+                "type": "accessory",
+                "badges": [
+                    "../assets/jiguangcaokongqi.png",
+                    "../assets/huanraojupan.png"
+                ]
+            },
+            {
+                "name": "相位辅助器",
+                "icon": "../assets/AccessoryCB5_16.png",
+                "path": "libs/acc_thunder.html",
+                "path2": "libs/acc_boomerang.html",
+                "type": "accessory",
+                "badges": [
+                    "../assets/leidianfasheqi.png",
+                    "../assets/huixuanbiao.png"
+                ]
+            },
+            {
+                "name": "反物质维持装置",
+                "icon": "../assets/AccessoryCB6_16.png",
+                "path": "libs/acc_drill.html",
+                "path2": "libs/acc_rpg.html",
+                "type": "accessory",
+                "badges": [
+                    "../assets/zuantoudan.png",
+                    "../assets/huojiandan.png"
+                ]
+            },
+            {
+                "name": "量子机器人",
+                "icon": "../assets/AccessoryCB4_16.png",
+                "path2": "libs/acc_durian.html",
+                "path": "libs/acc_football.html",
+                "type": "accessory",
+                "badges": [
+                    "../assets/gutou.png",
+                    "../assets/liulian.png"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "装备",
+        "icon": "../assets/IconEquip.png",
+        "items": [
+            {
+                "name": "双绝枪",
+                "icon": "../assets/Equip_Weapon_9_Icon.png",
+                "type": "equip",
+                "path": "libs/equip_weapon_ss.html",
+                "paths": [
+                    "libs/equip_weapon_ss_p1.html",
+                    "libs/equip_weapon_ss_p2.html",
+                    "libs/equip_weapon_ss_p3.html",
+                    "libs/equip_weapon_ss_p4.html"
+                ]
+            },
+            {
+                "name": "天启战衣",
+                "icon": "../assets/Equip_Armor_9_Icon_Artifact.png",
+                "type": "equip",
+                "path": "libs/equip_armor_ss.html",
+                "paths": [
+                    "libs/equip_armor_ss_p1.html",
+                    "libs/equip_armor_ss_p2.html",
+                    "libs/equip_armor_ss_p3.html",
+                    "libs/equip_armor_ss_p4.html"
+                ]
+            },
+            {
+                "name": "神罚项链",
+                "icon": "../assets/Equip_Belt_9_Icon_Artifact.png",
+                "path": "libs/equip_necklace_ss.html"
+            },
+            {
+                "name": "星辰束腰",
+                "icon": "../assets/Equip_Necklace_9_Icon_Artifact.png",
+                "path": "libs/equip_belt_ss.html"
+            },
+            {
+                "name": "月殇护手",
+                "icon": "../assets/Equip_Gloves_9_Icon_Artifact.png",
+                "path": "libs/equip_gloves_ss.html"
+            },
+            {
+                "name": "冰霜战靴",
+                "icon": "../assets/Equip_Shoe_9_Icon_Artifact.png",
+                "path": "libs/equip_shoes_ss.html"
+            }
+        ]
+    },
+    {
+        "name": "特工",
+        "icon": "../assets/IconRole.png",
+        "items": [
+            {
+                "name": "维托尔",
+                "icon": "../assets/Head_76.png",
+                "path": "libs/hero_venato.html"
+            },
+            {
+                "name": "塔洛西娅",
+                "icon": "../assets/Head_66.png",
+                "path": "libs/hero_taloxa.html"
+            },
+            {
+                "name": "乔伊",
+                "icon": "../assets/Head_56.png",
+                "path": "libs/hero_joey.html"
+            },
+            {
+                "name": "凛音",
+                "icon": "../assets/Head_39.png",
+                "path": "libs/hero_metallia.html"
+            },
+            {
+                "name": "杨大师",
+                "icon": "../assets/Head_24.png",
+                "path": "libs/hero_panda.html"
+            },
+            {
+                "name": "莱昂纳多",
+                "icon": "../assets/Head_44.png",
+                "path": "libs/hero_leonardo.html"
+            },
+            {
+                "name": "拉斐尔",
+                "icon": "../assets/Head_45.png",
+                "path": "libs/hero_raphael.html"
+            },
+            {
+                "name": "多纳泰罗",
+                "icon": "../assets/Head_50.png",
+                "path": "libs/hero_donatello.html"
+            },
+            {
+                "name": "米开朗基罗",
+                "icon": "../assets/Head_51.png",
+                "path": "libs/hero_michelangelo.html"
+            },
+            {
+                "name": "爱普莉尔",
+                "icon": "../assets/Head_46.png",
+                "path": "libs/hero_april.html"
+            },
+            {
+                "name": "斯普林特",
+                "icon": "../assets/Head_52.png",
+                "path": "libs/hero_splinter.html"
+            },
+            {
+                "name": "科萌",
+                "icon": "../assets/Head_0.png",
+                "path": "libs/hero_common.html"
+            },
+            {
+                "name": "金",
+                "icon": "../assets/Head_16.png",
+                "path": "libs/hero_king.html"
+            },
+            {
+                "name": "沃尔默",
+                "icon": "../assets/Head_15.png",
+                "path": "libs/hero_worm.html"
+            },
+            {
+                "name": "凯蒂斯",
+                "icon": "../assets/Head_14.png",
+                "path": "libs/hero_catnips.html"
+            },
+            {
+                "name": "月咏",
+                "icon": "../assets/Head_13.png",
+                "path": "libs/hero_tsukuyomi.html"
+            },
+            {
+                "name": "威彻",
+                "icon": "../assets/Head_20.png",
+                "path": "libs/hero_wesson.html"
+            },
+            {
+                "name": "艾琳娜",
+                "icon": "../assets/Head_22.png",
+                "path": "libs/hero_yelena.html"
+            }
+        ]
+    },
+    {
+        "name": "宠物",
+        "icon": "../assets/IconPet.png",
+        "items": [
+            {
+                "name": "坚果探员",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/pet/Head_Squirrel.png",
+                "path": "libs/pet_squirrel.html"
+            },
+            {
+                "name": "雪炮冰王",
+                "icon": "../assets/Head_Penguin.png",
+                "path": "libs/pet_penguin.html"
+            },
+            {
+                "name": "卡皮巴拉",
+                "icon": "../assets/Head_Capy.png",
+                "path": "libs/pet_capy.html"
+            },
+            {
+                "name": "噗噗豚",
+                "icon": "../assets/Head_Puffer.png",
+                "path": "libs/pet_puffer.html"
+            },
+            {
+                "name": "咕咕鸡",
+                "icon": "../assets/Head_Chicken.png",
+                "path": "libs/pet_chicken.html"
+            }
+        ]
+    },
+    {
+        "name": "收藏品",
+        "icon": "../assets/IconCollection.png",
+        "items": [
+            {
+                "name": "群星闪耀",
+                "path": "libs/collect_set_weapon_9.html",
+                "icon": "../assets/EquipRemould_AnNiu3.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/261_shuipingzuoxinghui.png",
+                    "../assets/262_shuangyuzuoxinghui.png",
+                    "../assets/263_baiyangzuoxinghui.png",
+                    "../assets/264_jinniuzuoxinghui.png"
+                ]
+            },
+            {
+                "name": "酿酒偏方",
+                "path": "libs/collect_set_brick.html",
+                "icon": "../assets/rongheyaling.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/142_shiguangqixiping.png",
+                    "../assets/233_baibiangongshengti.png",
+                    "../assets/83_henengdianchi.png",
+                    "../assets/236_shuiyuansuzhizhu.png"
+                ]
+            },
+            {
+                "name": "风之图腾",
+                "path": "libs/collect_set_molotov.html",
+                "icon": "../assets/rongheranliaoguan.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/171_saibotutengzhu.png",
+                    "../assets/234_yuyantaluopai.png",
+                    "../assets/48_shenmiguanghuan.png",
+                    "../assets/238_fengyuansuzhizhu.png"
+                ]
+            },
+            {
+                "name": "实现童年的梦想",
+                "path": "libs/collect_set_pet.html",
+                "icon": "../assets/SPet_Entry.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/201_jiyibianjiqi.png",
+                    "../assets/202_shijianhuisuchilun.png",
+                    "../assets/203_kongjianhuisuchilun.png",
+                    "../assets/204_mengjingxianyingye.png"
+                ]
+            },
+            {
+                "name": "召唤替身",
+                "path": "libs/collect_set_weapon_c.html",
+                "icon": "../assets/Equip_Weapon_10_Icon.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/231_anwuzhikuilei.png",
+                    "../assets/232_shijianxianmofang.png",
+                    "../assets/233_baibiangongshengti.png",
+                    "../assets/234_yuyantaluopai.png"
+                ]
+            },
+            {
+                "name": "尝试所有可能性",
+                "path": "libs/collect_set_laser.html",
+                "icon": "../assets/rongheyanmieshexian.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/141_yuanzijiqiren.png",
+                    "../assets/232_shijianxianmofang.png",
+                    "../assets/84_denglizijian.png",
+                    "../assets/235_diyuansuzhizhu.png"
+                ]
+            },
+            {
+                "name": "赛博仙境",
+                "path": "libs/collect_set_wheel.html",
+                "icon": "../assets/ronghezhuanlun_chaowu.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/52_dujiaoshoudejiao.png",
+                    "../assets/203_kongjianhuisuchilun.png",
+                    "../assets/115_fanzhonglizhuangzhi.png",
+                    "../assets/208_bianxieshijijiaxiang.png"
+                ]
+            },
+            {
+                "name": "金手指",
+                "path": "libs/collect_set_boomerang.html",
+                "icon": "../assets/lingyucilibiao.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/112_mingyunduomiantou.png",
+                    "../assets/203_kongjianhuisuchilun.png",
+                    "../assets/205_feixingqijiaonang.png",
+                    "../assets/206_naojixinpian.png"
+                ]
+            },
+            {
+                "name": "改写星系的记忆",
+                "path": "libs/collect_set_thunder.html",
+                "icon": "../assets/xuanzhuanleibao.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/76_xinghebaozuan.png",
+                    "../assets/201_jiyibianjiqi.png",
+                    "../assets/145_minidaisenqiu.png",
+                    "../assets/207_xingguichegnkeka.png"
+                ]
+            },
+            {
+                "name": "多元宇宙视角",
+                "path": "libs/collect_set_drill.html",
+                "icon": "../assets/binghuoshaojian.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/81_zhenshizhiyan.png",
+                    "../assets/173_mengjingpintu.png",
+                    "../assets/175_shouhuozhilu.png",
+                    "../assets/178_chongdongtanceqi.png"
+                ]
+            },
+            {
+                "name": "超维技术",
+                "path": "libs/collect_set_rpg.html",
+                "icon": "../assets/chaojishazuipao.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/82_shengmingshalou.png",
+                    "../assets/113_weidubo.png",
+                    "../assets/36_chaojidianluban.png",
+                    "../assets/118_tongxunhailuo.png"
+                ]
+            },
+            {
+                "name": "跨越星系的触手",
+                "path": "libs/collect_set_drone.html",
+                "icon": "../assets/hetiwurenji_AB.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/32_xingjiyueqianjuzhentuzhi.png",
+                    "../assets/144_chaonengshenjingyuan.png",
+                    "../assets/116_shuidongtuilijiaopu.png",
+                    "../assets/147_kelaiyinping.png"
+                ]
+            },
+            {
+                "name": "摹仿秀",
+                "path": "libs/collect_set_field.html",
+                "icon": "../assets/hetiyazhilichang.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/111_naminitaimianju.png",
+                    "../assets/172_fuzhibaojing.png",
+                    "../assets/177_yuzhouluopan.png",
+                    "../assets/176_wuxianyinfu.png"
+                ]
+            },
+            {
+                "name": "打开虚空之门",
+                "path": "libs/collect_set_football.html",
+                "icon": "../assets/bianyiliangziqiu.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/51_tianshizhileishuijing.png",
+                    "../assets/75_yijieqiyao.png",
+                    "../assets/146_weixingrenzaotaiyang.png",
+                    "../assets/148_fanlizihulu.png"
+                ]
+            },
+            {
+                "name": "接近造物",
+                "path": "libs/collect_set_durian.html",
+                "icon": "../assets/Tiejili_ronghe.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/141_yuanzijiqiren.png",
+                    "../assets/142_shiguangqixiping.png",
+                    "../assets/146_weixingrenzaotaiyang.png",
+                    "../assets/148_fanlizihulu.png"
+                ]
+            },
+            {
+                "name": "在安全场地进行试验",
+                "path": "libs/collect_set_shoes.html",
+                "icon": "../assets/Equip_Shoe_9_Icon_Artifact.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/171_saibotutengzhu.png",
+                    "../assets/172_fuzhibaojing.png",
+                    "../assets/173_mengjingpintu.png",
+                    "../assets/174_jiyinbianjiqi.png"
+                ]
+            },
+            {
+                "name": "召唤神龙",
+                "path": "libs/collect_set_gloves.html",
+                "icon": "../assets/Equip_Gloves_9_Icon_Artifact.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/141_yuanzijiqiren.png",
+                    "../assets/142_shiguangqixiping.png",
+                    "../assets/143_longya.png",
+                    "../assets/144_chaonengshenjingyuan.png"
+                ]
+            },
+            {
+                "name": "跨纬度行动",
+                "path": "libs/collect_set_belt.html",
+                "icon": "../assets/Equip_Necklace_9_Icon_Artifact.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/111_naminitaimianju.png",
+                    "../assets/112_mingyunduomiantou.png",
+                    "../assets/113_weidubo.png",
+                    "../assets/114_yishitongbutoukui.png"
+                ]
+            },
+            {
+                "name": "生命的真谛",
+                "path": "libs/collect_set_necklace.html",
+                "icon": "../assets/Equip_Belt_9_Icon_Artifact.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/79_gaoweidunengliangmofang.png",
+                    "../assets/80_xukongzhihua.png",
+                    "../assets/81_zhenshizhiyan.png",
+                    "../assets/82_shengmingshalou.png"
+                ]
+            },
+            {
+                "name": "异界宝藏",
+                "path": "libs/collect_set_armor.html",
+                "icon": "../assets/Equip_Armor_9_Icon_Artifact.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/31_buxiudexingyunyingbi.png",
+                    "../assets/32_xingjiyueqianjuzhentuzhi.png",
+                    "../assets/51_tianshizhileishuijing.png",
+                    "../assets/52_dujiaoshoudejiao.png"
+                ]
+            },
+            {
+                "name": "智慧传承",
+                "path": "libs/collect_set_weapon.html",
+                "icon": "../assets/Equip_Weapon_9_Icon.png",
+                "type": "collection",
+                "icons": [
+                    "../assets/1_renleijiyintupu.png",
+                    "../assets/2_yuanguzhihuizhishu.png",
+                    "../assets/75_yijieqiyao.png",
+                    "../assets/76_xinghebaozuan.png"
+                ]
+            }
+        ]
+    }
+]

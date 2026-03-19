@@ -1,0 +1,2304 @@
+{
+  "running0402":{
+    "id": "-1",
+    "name": "特工快跑",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-06",
+    "ticketIcon": "https://gitee.com/tangletgo/and/raw/master/event/ticket_running.png",
+    "dailyMissionsHint": "数据暂未更新",
+    "exchangeListHint": "数据暂未更新",
+    "progressRewardsHint": "数据暂未更新",
+    "eventDetails": [
+      {
+        "label": "玩法说明",
+        "type": "preview",
+        "value": "https://gitee.com/tangletgo/and/raw/master/event/preview_running.jpg"
+      }
+    ]
+  },
+  "gourmet0327":{
+    "id": "-2",
+    "name": "动物玩偶屋",
+    "startDate": "2026-03-27",
+    "endDate": "2026-03-31",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/ticket.png&hash=506",
+    "eventDetails": [
+      {
+        "label": "玩法说明",
+        "text": "查看类似活动",
+        "type": "preview",
+        "value": "https://gitee.com/tangletgo/and/raw/master/event/history_0910.jpg"
+      },
+      {
+        "label": "排行榜数据",
+        "type": "preview",
+        "value": "https://gitee.com/tangletgo/and/raw/master/event/rank_0327.jpg"
+      },
+      {
+        "label": "道具单价",
+        "value": "40"
+      },
+      {
+        "label": "初始票数",
+        "value": "10"
+      }
+    ],  
+
+    "totalRewards": [{ "count": 1740  }],
+
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [{ "count": 100 }],
+        "targetLabel": "天",
+        "details": [
+          { "target": 1, "rewards": [{ "count": 20 }] },
+          { "target": 2, "rewards": [{ "count": 20 }] },
+          { "target": 3, "rewards": [{ "count": 20 }] },
+          { "target": 4, "rewards": [{ "count": 20 }] },
+          { "target": 5, "rewards": [{ "count": 20 }] }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [{ "count": 128 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 6 }] },
+          { "target": 4, "rewards": [{ "count": 6 }] },
+          { "target": 6, "rewards": [{ "count": 6 }] },
+          { "target": 8, "rewards": [{ "count": 10 }] },
+          { "target": 10, "rewards": [{ "count": 10 }] },
+          { "target": 12, "rewards": [{ "count": 10 }] },
+          { "target": 16, "rewards": [{ "count": 10 }] },
+          { "target": 20, "rewards": [{ "count": 10 }] },
+          { "target": 25, "rewards": [{ "count": 15 }] },
+          { "target": 30, "rewards": [{ "count": 15 }] },
+          { "target": 35, "rewards": [{ "count": 15 }] },
+          { "target": 40, "rewards": [{ "count": 15 }] }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [{ "count": 147 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 6 }] },
+          { "target": 4, "rewards": [{ "count": 6 }] },
+          { "target": 6, "rewards": [{ "count": 6 }] },
+          { "target": 8, "rewards": [{ "count": 6 }] },
+          { "target": 10, "rewards": [{ "count": 6 }] },
+          { "target": 12, "rewards": [{ "count": 8 }] },
+          { "target": 14, "rewards": [{ "count": 8 }] },
+          { "target": 16, "rewards": [{ "count": 8 }] },
+          { "target": 18, "rewards": [{ "count": 8 }] },
+          { "target": 20, "rewards": [{ "count": 10 }] },
+          { "target": 22, "rewards": [{ "count": 10 }] },
+          { "target": 24, "rewards": [{ "count": 10 }] },
+          { "target": 28, "rewards": [{ "count": 10 }] },
+          { "target": 32, "rewards": [{ "count": 15 }] },
+          { "target": 34, "rewards": [{ "count": 15 }] },
+          { "target": 35, "rewards": [{ "count": 15 }] }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [{ "count": 300 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 3, "rewards": [{ "count": 10 }] },
+          { "target": 6, "rewards": [{ "count": 10 }] },
+          { "target": 9, "rewards": [{ "count": 10 }] },
+          { "target": 12, "rewards": [{ "count": 10 }] },
+          { "target": 15, "rewards": [{ "count": 15 }] },
+          { "target": 18, "rewards": [{ "count": 15 }] },
+          { "target": 21, "rewards": [{ "count": 15 }] },
+          { "target": 24, "rewards": [{ "count": 15 }] },
+          { "target": 27, "rewards": [{ "count": 20 }] },
+          { "target": 30, "rewards": [{ "count": 20 }] },
+          { "target": 33, "rewards": [{ "count": 20 }] },
+          { "target": 36, "rewards": [{ "count": 20 }] },
+          { "target": 39, "rewards": [{ "count": 20 }] },
+          { "target": 42, "rewards": [{ "count": 25 }] },
+          { "target": 45, "rewards": [{ "count": 25 }] },
+          { "target": 48, "rewards": [{ "count": 25 }] },
+          { "target": 50, "rewards": [{ "count": 25 }] }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [{ "count": 205 }],
+        "targetLabel": "K",
+        "details": [
+          { "target": 30, "rewards": [{ "count": 8 }] },
+          { "target": 60, "rewards": [{ "count": 8 }] },
+          { "target": 90, "rewards": [{ "count": 8 }] },
+          { "target": 120, "rewards": [{ "count": 8 }] },
+          { "target": 160, "rewards": [{ "count": 8 }] },
+          { "target": 200, "rewards": [{ "count": 10 }] },
+          { "target": 240, "rewards": [{ "count": 10 }] },
+          { "target": 280, "rewards": [{ "count": 10 }] },
+          { "target": 320, "rewards": [{ "count": 10 }] },
+          { "target": 360, "rewards": [{ "count": 10 }] },
+          { "target": 400, "rewards": [{ "count": 10 }] },
+          { "target": 500, "rewards": [{ "count": 10 }] },
+          { "target": 600, "rewards": [{ "count": 10 }] },
+          { "target": 700, "rewards": [{ "count": 10 }] },
+          { "target": 800, "rewards": [{ "count": 15 }] },
+          { "target": 900, "rewards": [{ "count": 15 }] },
+          { "target": 1000, "rewards": [{ "count": 15 }] },
+          { "target": 1100, "rewards": [{ "count": 15 }] },
+          { "target": 1200, "rewards": [{ "count": 15 }] }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [{ "count": 860 }],
+        "targetLabel": "个",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 10 }] },
+          { "target": 4, "rewards": [{ "count": 10 }] },
+          { "target": 8, "rewards": [{ "count": 10 }] },
+          { "target": 12, "rewards": [{ "count": 10 }] },
+          { "target": 16, "rewards": [{ "count": 10 }] },
+          { "target": 20, "rewards": [{ "count": 10 }] },
+          { "target": 25, "rewards": [{ "count": 10 }] },
+          { "target": 30, "rewards": [{ "count": 10 }] },
+          { "target": 35, "rewards": [{ "count": 10 }] },
+          { "target": 40, "rewards": [{ "count": 10 }] },
+          { "target": 50, "rewards": [{ "count": 20 }] },
+          { "target": 60, "rewards": [{ "count": 20 }] },
+          { "target": 70, "rewards": [{ "count": 20 }] },
+          { "target": 80, "rewards": [{ "count": 20 }] },
+          { "target": 90, "rewards": [{ "count": 20 }] },
+          { "target": 100, "rewards": [{ "count": 20 }] },
+          { "target": 110, "rewards": [{ "count": 25 }] },
+          { "target": 120, "rewards": [{ "count": 25 }] },
+          { "target": 130, "rewards": [{ "count": 25 }] },
+          { "target": 140, "rewards": [{ "count": 25 }] },
+          { "target": 160, "rewards": [{ "count": 30 }] },
+          { "target": 180, "rewards": [{ "count": 30 }] },
+          { "target": 200, "rewards": [{ "count": 30 }] },
+          { "target": 220, "rewards": [{ "count": 30 }] },
+          { "target": 230, "rewards": [{ "count": 30 }] },
+          { "target": 240, "rewards": [{ "count": 30 }] },
+          { "target": 250, "rewards": [{ "count": 30 }] },
+          { "target": 260, "rewards": [{ "count": 30 }] },
+          { "target": 280, "rewards": [{ "count": 30 }] },
+          { "target": 300, "rewards": [{ "count": 30 }] },
+          { "target": 320, "rewards": [{ "count": 30 }] },
+          { "target": 350, "rewards": [{ "count": 30 }] },
+          { "target": 380, "rewards": [{ "count": 30 }] },
+          { "target": 420, "rewards": [{ "count": 30 }] },
+          { "target": 460, "rewards": [{ "count": 30 }] },
+          { "target": 500, "rewards": [{ "count": 30 }] },
+          { "target": 550, "rewards": [{ "count": 30 }] },
+          { "target": 600, "rewards": [{ "count": 30 }] }
+        ]
+      }
+    ],
+     "exchangeList": [
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 16500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_16.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 46000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 29500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_drop_0.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 35500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 22500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 11500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_20.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 2300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_21.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 4500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 1,
+        "total": 1,
+        "discount": "-50%折扣",
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 13500,
+          "style":"text-decoration: line-through black;"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/Avatar_Head/HeadFrame_41.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 40,
+        "total": 40,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 1000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/ticket.png&hash=506",
+          "amount": 10
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 9500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 13500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_R.png&hash=506",
+          "amount": 10
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 4000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_choose_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 15,
+        "total": 15,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 2000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_drop_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 20,
+        "total": 20,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 1800
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SPetGem.png&hash=506",
+          "amount": 100
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 1500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 1500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/PetKeyLarge.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 100,
+        "total": 100,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 580
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Hero_Exp.png&hash=506",
+          "amount": 500
+        }
+      },
+      {
+        "remaining": 100,
+        "total": 100,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 450
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/petiUI_Merchant_petExpItem1.png&hash=506",
+          "amount": 500
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Gourmet/icon_token.png&hash=506",
+          "amount": 230
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpecialOpsTicket.png&hash=506",
+          "amount": 5
+        }
+      }
+    ],
+      "progressRewards": [
+      {
+        "progress": 100,
+        "reward": {
+          "icon": "https://gitee.com/tangletgo/and/raw/master/update/460/avatar/item_80.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_drop_7.png&hash=506",
+          "count": 3
+        }
+      },
+      {
+        "progress": 400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506",
+          "count": 3
+        }
+      },
+      {
+        "progress": 600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_choose_7.png&hash=506",
+          "count": 3
+        }
+      },
+      {
+        "progress": 800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/PetKeyLarge.png&hash=506",
+          "count": 5
+        }
+      },
+      {
+        "progress": 1000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_7.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506",
+          "count": 5
+        }
+      },
+      {
+        "progress": 1400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/PetKeyLarge.png&hash=506",
+          "count": 10
+        }
+      },
+      {
+        "progress": 1600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_7.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_7.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpetAssistReset.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506",
+          "count": 10
+        }
+      },
+      {
+        "progress": 4400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_22.png&hash=506",
+          "count": 10
+        }
+      },
+      {
+        "progress": 5000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 5600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_7.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 6400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 7200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_petAwaken.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 7950,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 8700,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_petAwaken.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 9450,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 10200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_petAwaken.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 10950,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 11700,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_petAwaken.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 12450,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506",
+          "count": 1
+        }
+      }
+    ]
+  
+  },
+  "fish0321":{
+    "id": "80969258",
+    "name": "春暖海边狂欢",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-25",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.3.0/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+    "progressRewardsHint":"该活动没有进度奖励",
+    "eventDetails": [
+      {
+        "label": "玩法说明",
+        "text": "查看类似活动",
+        "type": "preview",
+        "value": "https://gitee.com/tangletgo/and/raw/master/event/history_0916.jpg"
+      },
+      {
+        "label": "排行榜数据",
+        "type": "preview",
+        "value": "https://gitee.com/tangletgo/and/raw/master/event/rank_0321.jpg"
+      },
+      {
+        "label": "道具单价",
+        "value": "100"
+      },
+      {
+        "label": "初始票数",
+        "value": "5"
+      }
+    ],
+    "totalRewards": [{ "count": 424 }],
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [
+          { "count": 25 }
+        ],
+        "targetLabel": "天",
+        "details": [
+          { "target": 1, "rewards": [{ "count": 5 }] },
+          { "target": 2, "rewards": [{ "count": 5 }] },
+          { "target": 3, "rewards": [{ "count": 5 }] },
+          { "target": 4, "rewards": [{ "count": 5 }] },
+          { "target": 5, "rewards": [{ "count": 5 }] }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [{ "count": 22 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 3, "rewards": [{ "count": 1 }] },
+          { "target": 6, "rewards": [{ "count": 2 }] },
+          { "target": 9, "rewards": [{ "count": 2 }] },
+          { "target": 12, "rewards": [{ "count": 2 }] },
+          { "target": 15, "rewards": [{ "count": 2 }] },
+          { "target": 20, "rewards": [{ "count": 2 }] },
+          { "target": 25, "rewards": [{ "count": 2 }] },
+          { "target": 30, "rewards": [{ "count": 3 }] },
+          { "target": 35, "rewards": [{ "count": 3 }] },
+          { "target": 40, "rewards": [{ "count": 3 }] }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [{ "count": 53 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 2 }] },
+          { "target": 4, "rewards": [{ "count": 2 }] },
+          { "target": 6, "rewards": [{ "count": 2 }] },
+          { "target": 8, "rewards": [{ "count": 2 }] },
+          { "target": 10, "rewards": [{ "count": 2 }] },
+          { "target": 12, "rewards": [{ "count": 3 }] },
+          { "target": 14, "rewards": [{ "count": 3 }] },
+          { "target": 16, "rewards": [{ "count": 3 }] },
+          { "target": 18, "rewards": [{ "count": 3 }] },
+          { "target": 20, "rewards": [{ "count": 4 }] },
+          { "target": 22, "rewards": [{ "count": 4 }] },
+          { "target": 24, "rewards": [{ "count": 4 }] },
+          { "target": 28, "rewards": [{ "count": 4 }] },
+          { "target": 30, "rewards": [{ "count": 5 }] },
+          { "target": 32, "rewards": [{ "count": 5 }] },
+          { "target": 35, "rewards": [{ "count": 5 }] }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [{ "count": 49 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 3, "rewards": [{ "count": 2 }] },
+          { "target": 6, "rewards": [{ "count": 2 }] },
+          { "target": 9, "rewards": [{ "count": 2 }] },
+          { "target": 12, "rewards": [{ "count": 2 }] },
+          { "target": 15, "rewards": [{ "count": 2 }] },
+          { "target": 18, "rewards": [{ "count": 2 }] },
+          { "target": 21, "rewards": [{ "count": 3 }] },
+          { "target": 24, "rewards": [{ "count": 3 }] },
+          { "target": 27, "rewards": [{ "count": 3 }] },
+          { "target": 30, "rewards": [{ "count": 3 }] },
+          { "target": 33, "rewards": [{ "count": 3 }] },
+          { "target": 36, "rewards": [{ "count": 3 }] },
+          { "target": 39, "rewards": [{ "count": 3 }] },
+          { "target": 42, "rewards": [{ "count": 4 }] },
+          { "target": 45, "rewards": [{ "count": 4 }] },
+          { "target": 48, "rewards": [{ "count": 4 }] },
+          { "target": 50, "rewards": [{ "count": 4 }] }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [{ "count": 70 }],
+        "targetLabel": "K",
+        "details": [
+          { "target": 30, "rewards": [{ "count": 2 }] },
+          { "target": 60, "rewards": [{ "count": 2 }] },
+          { "target": 90, "rewards": [{ "count": 2 }] },
+          { "target": 120, "rewards": [{ "count": 2 }] },
+          { "target": 160, "rewards": [{ "count": 2 }] },
+          { "target": 200, "rewards": [{ "count": 2 }] },
+          { "target": 240, "rewards": [{ "count": 3 }] },
+          { "target": 280, "rewards": [{ "count": 3 }] },
+          { "target": 320, "rewards": [{ "count": 3 }] },
+          { "target": 360, "rewards": [{ "count": 3 }] },
+          { "target": 400, "rewards": [{ "count": 4 }] },
+          { "target": 500, "rewards": [{ "count": 4 }] },
+          { "target": 600, "rewards": [{ "count": 4 }] },
+          { "target": 700, "rewards": [{ "count": 4 }] },
+          { "target": 800, "rewards": [{ "count": 6 }] },
+          { "target": 900, "rewards": [{ "count": 6 }] },
+          { "target": 1000, "rewards": [{ "count": 6 }] },
+          { "target": 1100, "rewards": [{ "count": 6 }] },
+          { "target": 1200, "rewards": [{ "count": 6 }] }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [{ "count": 205 }],
+        "targetLabel": "个",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 2 }] },
+          { "target": 4, "rewards": [{ "count": 2 }] },
+          { "target": 8, "rewards": [{ "count": 2 }] },
+          { "target": 12, "rewards": [{ "count": 3 }] },
+          { "target": 16, "rewards": [{ "count": 3 }] },
+          { "target": 20, "rewards": [{ "count": 3 }] },
+          { "target": 24, "rewards": [{ "count": 4 }] },
+          { "target": 30, "rewards": [{ "count": 4 }] },
+          { "target": 40, "rewards": [{ "count": 4 }] },
+          { "target": 50, "rewards": [{ "count": 4 }] },
+          { "target": 60, "rewards": [{ "count": 4 }] },
+          { "target": 70, "rewards": [{ "count": 6 }] },
+          { "target": 80, "rewards": [{ "count": 6 }] },
+          { "target": 90, "rewards": [{ "count": 6 }] },
+          { "target": 100, "rewards": [{ "count": 8 }] },
+          { "target": 120, "rewards": [{ "count": 8 }] },
+          { "target": 140, "rewards": [{ "count": 8 }] },
+          { "target": 160, "rewards": [{ "count": 8 }] },
+          { "target": 180, "rewards": [{ "count": 8 }] },
+          { "target": 200, "rewards": [{ "count": 8 }] },
+          { "target": 220, "rewards": [{ "count": 8 }] },
+          { "target": 240, "rewards": [{ "count": 8 }] },
+          { "target": 260, "rewards": [{ "count": 8 }] },
+          { "target": 280, "rewards": [{ "count": 8 }] },
+          { "target": 300, "rewards": [{ "count": 8 }] },
+          { "target": 320, "rewards": [{ "count": 8 }] },
+          { "target": 350, "rewards": [{ "count": 8 }] },
+          { "target": 380, "rewards": [{ "count": 8 }] },
+          { "target": 420, "rewards": [{ "count": 8 }] },
+          { "target": 460, "rewards": [{ "count": 8 }] },
+          { "target": 500, "rewards": [{ "count": 8 }] },
+          { "target": 550, "rewards": [{ "count": 8 }] },
+          { "target": 600, "rewards": [{ "count": 8 }] }
+        ]
+      }
+    ],
+    
+    "exchangeList": [
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishline.png&hash=506",
+          "amount": 1
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 200
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 15,
+        "total": 15,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 120
+        },
+        "reward": {
+          "icon": "../assets/accessory_drop_2.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 20,
+        "total": 20,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 90
+        },
+        "reward": {
+          "icon": "../assets/accessory_drop_2.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 40
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/petiUI_Merchant_petExpItem1.png&hash=506",
+          "amount": 200
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 55
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Hero_Exp.png&hash=506",
+          "amount": 200
+        }
+      },
+      {
+        "remaining": 25,
+        "total": 25,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 55
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Currency_Gold.png&hash=506",
+          "amount": 10000
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 260
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpecialOpsTicket.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishline.png&hash=506",
+          "amount": 1
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 350
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 700
+        },
+        "reward": {
+          "icon": "../assets/accessory_drop_3.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 1350
+        },
+        "reward": {
+          "icon": "../assets/accessory_drop_4.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 2340
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_4.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 1500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_4.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 110
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop1.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 20,
+        "total": 20,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 450
+        },
+        "reward": {
+          "icon": "../assets/accessory_drop_3.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishline.png&hash=506",
+          "amount": 1
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 12,
+        "total": 12,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 600
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 14700
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 19000
+        },
+        "reward": {
+          "icon": "../assets/accessory_drop_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 3000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_4.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 400
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop2.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 5500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 8300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_R.png&hash=506",
+          "amount": 10
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishline.png&hash=506",
+          "amount": 1
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 1500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishbait.png&hash=506",
+          "amount": 10
+        }
+      },
+      {
+        "remaining": 1,
+        "total": 1,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 96000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/233_baibiangongshengti.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 35,
+        "total": 35,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 3200
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionPiece/shoucangpinhuangxin.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 50500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 47500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_atk_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 47500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_def_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 39000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 2500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_21.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 2250
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop3.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 1500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishpoint.png&hash=506",
+          "amount": 1500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishking.png&hash=506",
+          "amount": 15
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 3,
+        "total": 3,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishking.png&hash=506",
+          "amount": 6
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 3,
+        "total": 3,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishking.png&hash=506",
+          "amount": 5
+        },
+        "reward": {
+          "icon": "../assets/accessory_drop_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 3,
+        "total": 3,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishking.png&hash=506",
+          "amount": 5
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 3,
+        "total": 3,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishking.png&hash=506",
+          "amount": 4
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 3,
+        "total": 3,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.0.2/UITexture/Fishing/FishingMain/icon_fishking.png&hash=506",
+          "amount": 1
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png&hash=506",
+          "amount": 5
+        }
+      }
+    ]
+  },
+  "adventure0315": {
+    "id": "64195748",
+    "name": "三叶草仙境",
+    "startDate": "2026-03-15",
+    "endDate": "2026-03-19",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/ticket.png&hash=506",
+    
+    "eventDetails": [
+      {
+        "label": "道具单价",
+        "value": "60"
+      },
+      {
+        "label": "初始票数",
+        "value": "5"
+      }
+    ],
+
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [{ "count": 250 }],
+        "targetLabel": "天",
+        "details": [
+          { "target": 1, "rewards": [{ "count": 50 }] },
+          { "target": 2, "rewards": [{ "count": 50 }] },
+          { "target": 3, "rewards": [{ "count": 50 }] },
+          { "target": 4, "rewards": [{ "count": 50 }] },
+          { "target": 5, "rewards": [{ "count": 50 }] }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [{ "count": 74 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 3 }] },
+          { "target": 4, "rewards": [{ "count": 3 }] },
+          { "target": 6, "rewards": [{ "count": 3 }] },
+          { "target": 8, "rewards": [{ "count": 3 }] },
+          { "target": 10, "rewards": [{ "count": 5 }] },
+          { "target": 12, "rewards": [{ "count": 5 }] },
+          { "target": 15, "rewards": [{ "count": 5 }] },
+          { "target": 18, "rewards": [{ "count": 5 }] },
+          { "target": 21, "rewards": [{ "count": 6 }] },
+          { "target": 24, "rewards": [{ "count": 6 }] },
+          { "target": 27, "rewards": [{ "count": 6 }] },
+          { "target": 30, "rewards": [{ "count": 8 }] },
+          { "target": 35, "rewards": [{ "count": 8 }] },
+          { "target": 40, "rewards": [{ "count": 8 }] }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [{ "count": 83 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 3 }] },
+          { "target": 4, "rewards": [{ "count": 3 }] },
+          { "target": 6, "rewards": [{ "count": 3 }] },
+          { "target": 9, "rewards": [{ "count": 5 }] },
+          { "target": 12, "rewards": [{ "count": 5 }] },
+          { "target": 15, "rewards": [{ "count": 6 }] },
+          { "target": 18, "rewards": [{ "count": 6 }] },
+          { "target": 21, "rewards": [{ "count": 6 }] },
+          { "target": 24, "rewards": [{ "count": 6 }] },
+          { "target": 27, "rewards": [{ "count": 10 }] },
+          { "target": 30, "rewards": [{ "count": 10 }] },
+          { "target": 33, "rewards": [{ "count": 10 }] },
+          { "target": 35, "rewards": [{ "count": 10 }] }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [{ "count": 143 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 3, "rewards": [{ "count": 5 }] },
+          { "target": 6, "rewards": [{ "count": 5 }] },
+          { "target": 9, "rewards": [{ "count": 5 }] },
+          { "target": 12, "rewards": [{ "count": 6 }] },
+          { "target": 15, "rewards": [{ "count": 6 }] },
+          { "target": 18, "rewards": [{ "count": 6 }] },
+          { "target": 21, "rewards": [{ "count": 8 }] },
+          { "target": 24, "rewards": [{ "count": 8 }] },
+          { "target": 27, "rewards": [{ "count": 8 }] },
+          { "target": 30, "rewards": [{ "count": 8 }] },
+          { "target": 33, "rewards": [{ "count": 10 }] },
+          { "target": 36, "rewards": [{ "count": 10 }] },
+          { "target": 39, "rewards": [{ "count": 10 }] },
+          { "target": 42, "rewards": [{ "count": 12 }] },
+          { "target": 45, "rewards": [{ "count": 12 }] },
+          { "target": 48, "rewards": [{ "count": 12 }] },
+          { "target": 50, "rewards": [{ "count": 12 }] }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [{ "count": 99 }],
+        "targetLabel": "K",
+        "details": [
+          { "target": 40, "rewards": [{ "count": 3 }] },
+          { "target": 80, "rewards": [{ "count": 3 }] },
+          { "target": 120, "rewards": [{ "count": 3 }] },
+          { "target": 160, "rewards": [{ "count": 3 }] },
+          { "target": 200, "rewards": [{ "count": 5 }] },
+          { "target": 250, "rewards": [{ "count": 5 }] },
+          { "target": 300, "rewards": [{ "count": 5 }] },
+          { "target": 400, "rewards": [{ "count": 5 }] },
+          { "target": 500, "rewards": [{ "count": 5 }] },
+          { "target": 600, "rewards": [{ "count": 8 }] },
+          { "target": 700, "rewards": [{ "count": 8 }] },
+          { "target": 800, "rewards": [{ "count": 8 }] },
+          { "target": 900, "rewards": [{ "count": 8 }] },
+          { "target": 1000, "rewards": [{ "count": 10 }] },
+          { "target": 1100, "rewards": [{ "count": 10 }] },
+          { "target": 1200, "rewards": [{ "count": 10 }] }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [{ "count": 511 }],
+        "targetLabel": "个",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 3 }] },
+          { "target": 4, "rewards": [{ "count": 3 }] },
+          { "target": 8, "rewards": [{ "count": 3 }] },
+          { "target": 12, "rewards": [{ "count": 3 }] },
+          { "target": 16, "rewards": [{ "count": 5 }] },
+          { "target": 20, "rewards": [{ "count": 5 }] },
+          { "target": 25, "rewards": [{ "count": 5 }] },
+          { "target": 30, "rewards": [{ "count": 8 }] },
+          { "target": 40, "rewards": [{ "count": 8 }] },
+          { "target": 50, "rewards": [{ "count": 8 }] },
+          { "target": 60, "rewards": [{ "count": 10 }] },
+          { "target": 70, "rewards": [{ "count": 10 }] },
+          { "target": 80, "rewards": [{ "count": 10 }] },
+          { "target": 90, "rewards": [{ "count": 10 }] },
+          { "target": 100, "rewards": [{ "count": 10 }] },
+          { "target": 110, "rewards": [{ "count": 15 }] },
+          { "target": 120, "rewards": [{ "count": 15 }] },
+          { "target": 130, "rewards": [{ "count": 15 }] },
+          { "target": 140, "rewards": [{ "count": 15 }] },
+          { "target": 150, "rewards": [{ "count": 15 }] },
+          { "target": 160, "rewards": [{ "count": 15 }] },
+          { "target": 170, "rewards": [{ "count": 15 }] },
+          { "target": 180, "rewards": [{ "count": 15 }] },
+          { "target": 190, "rewards": [{ "count": 15 }] },
+          { "target": 200, "rewards": [{ "count": 15 }] },
+          { "target": 220, "rewards": [{ "count": 20 }] },
+          { "target": 240, "rewards": [{ "count": 20 }] },
+          { "target": 260, "rewards": [{ "count": 20 }] },
+          { "target": 280, "rewards": [{ "count": 20 }] },
+          { "target": 300, "rewards": [{ "count": 20 }] },
+          { "target": 320, "rewards": [{ "count": 20 }] },
+          { "target": 350, "rewards": [{ "count": 20 }] },
+          { "target": 380, "rewards": [{ "count": 20 }] },
+          { "target": 420, "rewards": [{ "count": 20 }] },
+          { "target": 460, "rewards": [{ "count": 20 }] },
+          { "target": 500, "rewards": [{ "count": 20 }] },
+          { "target": 550, "rewards": [{ "count": 20 }] },
+          { "target": 600, "rewards": [{ "count": 20 }] }
+        ]
+      }
+    ],
+
+    "totalRewards": [{ "count": 1160 }],
+
+    "exchangeList": [
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 25500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 21200
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S1_4.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 21200
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S2_4.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 21200
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S3_4.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 13500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_drop_S.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 9800
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 6300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 6300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/255_jishengpugongying.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 625
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_21.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 2,
+        "total": 2,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 6250
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/EquipRemould_EternityStone.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 2,
+        "total": 2,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 6250
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/EquipRemould_DestoryStone.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 2,
+        "total": 2,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 6250
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/EquipRemould_ChaoslStone.png&hash=506",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 415
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 375
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxLarge.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 375
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png&hash=506",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/scroll_random.png&hash=506",
+          "amount": 20
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 150
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/petiUI_Merchant_petExpItem1.png&hash=506",
+          "amount": 600
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 190
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Hero_Exp.png&hash=506",
+          "amount": 600
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.6.0/UITexture/RollDeck/token.png&hash=506",
+          "amount": 105
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpecialOpsTicket.png&hash=506",
+          "amount": 5
+        }
+      }
+    ],
+
+    "guildRewards": [],
+
+    "progressRewards": [
+      {
+        "progress": 50,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png&hash=506",
+          "count": 5
+        }
+      },
+      {
+        "progress": 100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png&hash=506",
+          "count": 5
+        }
+      },
+      {
+        "progress": 200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png&hash=506",
+          "count": 8
+        }
+      },
+      {
+        "progress": 300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png&hash=506",
+          "count": 8
+        }
+      },
+      {
+        "progress": 450,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png&hash=506",
+          "count": 10
+        }
+      },
+      {
+        "progress": 600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/255_jishengpugongying.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 750,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/255_jishengpugongying.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 900,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/EquipRefinement/Surpass_core.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/EquipRefinement/Surpass_core.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 4300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 4800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/EquipRefinement/Surpass_core.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 5300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 5800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/EquipRefinement/Surpass_core.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 6300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 6800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/EquipRefinement/Surpass_core.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 7800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/EquipRefinement/Surpass_core.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 8800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/EquipRefinement/Surpass_core.png&hash=506",
+          "count": 1
+        }
+      },
+      {
+        "progress": 9800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/EquipRefinement/Surpass_core.png&hash=506",
+          "count": 1
+        }
+      }
+    ]
+  },
+  "snowsleigh0313": {
+    "id": "67159949",
+    "name": "滑雪幸运棋",
+    "startDate": "2026-03-09",
+    "endDate": "2026-03-13",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/RichMan/RichManMain/TuBiao-ShaiZi.png&hash=506",
+    "exchangeListHint": "该活动没有兑换奖励",
+    "eventDetails": [
+      {
+        "label": "排行榜数据",
+        "type": "preview",
+        "value": "https://gitee.com/tangletgo/and/raw/master/event/rank_0309.jpg"
+      },
+      {
+        "label": "道具单价",
+        "value": "200"
+      },
+      {
+        "label": "初始票数",
+        "value": "2"
+      }
+    ],
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [{ "count": 10 }],
+        "targetLabel": "天数",
+        "details": [
+          { "target": 1, "rewards": [{ "count": 2 }] },
+          { "target": 2, "rewards": [{ "count": 2 }] },
+          { "target": 3, "rewards": [{ "count": 2 }] },
+          { "target": 4, "rewards": [{ "count": 2 }] },
+          { "target": 5, "rewards": [{ "count": 2 }] }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [{ "count": 16 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 3, "rewards": [{ "count": 1 }] },
+          { "target": 6, "rewards": [{ "count": 1 }] },
+          { "target": 9, "rewards": [{ "count": 1 }] },
+          { "target": 12, "rewards": [{ "count": 1 }] },
+          { "target": 15, "rewards": [{ "count": 2 }] },
+          { "target": 20, "rewards": [{ "count": 2 }] },
+          { "target": 25, "rewards": [{ "count": 2 }] },
+          { "target": 30, "rewards": [{ "count": 2 }] },
+          { "target": 35, "rewards": [{ "count": 2 }] },
+          { "target": 40, "rewards": [{ "count": 2 }] }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [{ "count": 23 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 1 }] },
+          { "target": 4, "rewards": [{ "count": 1 }] },
+          { "target": 6, "rewards": [{ "count": 1 }] },
+          { "target": 9, "rewards": [{ "count": 1 }] },
+          { "target": 12, "rewards": [{ "count": 1 }] },
+          { "target": 15, "rewards": [{ "count": 1 }] },
+          { "target": 18, "rewards": [{ "count": 2 }] },
+          { "target": 21, "rewards": [{ "count": 2 }] },
+          { "target": 24, "rewards": [{ "count": 2 }] },
+          { "target": 27, "rewards": [{ "count": 2 }] },
+          { "target": 30, "rewards": [{ "count": 3 }] },
+          { "target": 33, "rewards": [{ "count": 3 }] },
+          { "target": 35, "rewards": [{ "count": 3 }] }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [{ "count": 45 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 1 }] },
+          { "target": 4, "rewards": [{ "count": 1 }] },
+          { "target": 6, "rewards": [{ "count": 1 }] },
+          { "target": 8, "rewards": [{ "count": 1 }] },
+          { "target": 10, "rewards": [{ "count": 1 }] },
+          { "target": 12, "rewards": [{ "count": 1 }] },
+          { "target": 14, "rewards": [{ "count": 1 }] },
+          { "target": 16, "rewards": [{ "count": 1 }] },
+          { "target": 18, "rewards": [{ "count": 1 }] },
+          { "target": 20, "rewards": [{ "count": 1 }] },
+          { "target": 22, "rewards": [{ "count": 2 }] },
+          { "target": 24, "rewards": [{ "count": 2 }] },
+          { "target": 26, "rewards": [{ "count": 2 }] },
+          { "target": 28, "rewards": [{ "count": 2 }] },
+          { "target": 30, "rewards": [{ "count": 2 }] },
+          { "target": 32, "rewards": [{ "count": 2 }] },
+          { "target": 34, "rewards": [{ "count": 2 }] },
+          { "target": 36, "rewards": [{ "count": 2 }] },
+          { "target": 38, "rewards": [{ "count": 2 }] },
+          { "target": 40, "rewards": [{ "count": 2 }] },
+          { "target": 42, "rewards": [{ "count": 3 }] },
+          { "target": 44, "rewards": [{ "count": 3 }] },
+          { "target": 46, "rewards": [{ "count": 3 }] },
+          { "target": 48, "rewards": [{ "count": 3 }] },
+          { "target": 50, "rewards": [{ "count": 3 }] }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [{ "count": 33 }],
+        "targetLabel": "K",
+        "unit": "K",
+        "details": [
+          { "target": 40, "rewards": [{ "count": 1 }] },
+          { "target": 80, "rewards": [{ "count": 1 }] },
+          { "target": 120, "rewards": [{ "count": 1 }] },
+          { "target": 160, "rewards": [{ "count": 1 }] },
+          { "target": 200, "rewards": [{ "count": 1 }] },
+          { "target": 250, "rewards": [{ "count": 2 }] },
+          { "target": 300, "rewards": [{ "count": 2 }] },
+          { "target": 400, "rewards": [{ "count": 2 }] },
+          { "target": 500, "rewards": [{ "count": 2 }] },
+          { "target": 600, "rewards": [{ "count": 2 }] },
+          { "target": 700, "rewards": [{ "count": 3 }] },
+          { "target": 800, "rewards": [{ "count": 3 }] },
+          { "target": 900, "rewards": [{ "count": 3 }] },
+          { "target": 1000, "rewards": [{ "count": 3 }] },
+          { "target": 1100, "rewards": [{ "count": 3 }] },
+          { "target": 1200, "rewards": [{ "count": 3 }] }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [{ "count": 121 }],
+        "targetLabel": "个",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 1 }] },
+          { "target": 4, "rewards": [{ "count": 1 }] },
+          { "target": 8, "rewards": [{ "count": 1 }] },
+          { "target": 12, "rewards": [{ "count": 1 }] },
+          { "target": 16, "rewards": [{ "count": 2 }] },
+          { "target": 20, "rewards": [{ "count": 2 }] },
+          { "target": 24, "rewards": [{ "count": 2 }] },
+          { "target": 30, "rewards": [{ "count": 2 }] },
+          { "target": 40, "rewards": [{ "count": 2 }] },
+          { "target": 60, "rewards": [{ "count": 3 }] },
+          { "target": 80, "rewards": [{ "count": 3 }] },
+          { "target": 100, "rewards": [{ "count": 3 }] },
+          { "target": 120, "rewards": [{ "count": 4 }] },
+          { "target": 140, "rewards": [{ "count": 4 }] },
+          { "target": 160, "rewards": [{ "count": 4 }] },
+          { "target": 180, "rewards": [{ "count": 4 }] },
+          { "target": 200, "rewards": [{ "count": 4 }] },
+          { "target": 220, "rewards": [{ "count": 6 }] },
+          { "target": 240, "rewards": [{ "count": 6 }] },
+          { "target": 260, "rewards": [{ "count": 6 }] },
+          { "target": 280, "rewards": [{ "count": 6 }] },
+          { "target": 300, "rewards": [{ "count": 6 }] },
+          { "target": 320, "rewards": [{ "count": 6 }] },
+          { "target": 350, "rewards": [{ "count": 6 }] },
+          { "target": 380, "rewards": [{ "count": 6 }] },
+          { "target": 420, "rewards": [{ "count": 6 }] },
+          { "target": 460, "rewards": [{ "count": 6 }] },
+          { "target": 500, "rewards": [{ "count": 6 }] },
+          { "target": 550, "rewards": [{ "count": 6 }] },
+          { "target": 600, "rewards": [{ "count": 6 }] }
+        ]
+      }
+    ],
+    "totalRewards": [{ "count": 248 }],
+    "exchangeList": [],
+    "guildRewards": [],
+    "progressRewards": [
+      { "progress": 1, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/PetKeyLarge.png&hash=506", "count": 2 } },
+      { "progress": 3, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_drop_7.png&hash=506", "count": 2 } },
+      { "progress": 5, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_drop_7.png&hash=506", "count": 2 } },
+      { "progress": 10, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506", "count": 3 } },
+      { "progress": 20, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_choose_7.png&hash=506", "count": 2 } },
+      { "progress": 40, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506", "count": 3 } },
+      { "progress": 60, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_22.png&hash=506", "count": 5 } },
+      { "progress": 90, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506", "count": 5 } },
+      { "progress": 120, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_7.png&hash=506", "count": 1 } },
+      { "progress": 150, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroReset.png&hash=506", "count": 1 } },
+      { "progress": 180, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506", "count": 1 } },
+      { "progress": 220, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506", "count": 1 } },
+      { "progress": 300, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpetAssistReset.png&hash=506", "count": 1 } },
+      { "progress": 400, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_22.png&hash=506", "count": 10 } },
+      { "progress": 500, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506", "count": 1 } },
+      { "progress": 600, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506", "count": 10 } },
+      { "progress": 700, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_7.png&hash=506", "count": 1 } },
+      { "progress": 800, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506", "count": 1 } },
+      { "progress": 950, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_22.png&hash=506", "count": 10 } },
+      { "progress": 1100, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506", "count": 1 } },
+      { "progress": 1250, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png&hash=506", "count": 10 } },
+      { "progress": 1400, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506", "count": 1 } },
+      { "progress": 1550, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_petAwaken.png&hash=506", "count": 1 } },
+      { "progress": 1700, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506", "count": 1 } },
+      { "progress": 1850, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_petAwaken.png&hash=506", "count": 1 } },
+      { "progress": 2000, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506", "count": 1 } },
+      { "progress": 2150, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_petAwaken.png&hash=506", "count": 1 } },
+      { "progress": 2300, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png&hash=506", "count": 1 } }
+    ]
+  },
+  "luckyGacha0303": {
+    "id": "60722700",
+    "name": "幸运扭蛋",
+    "startDate": "2026-03-03",
+    "endDate": "2026-03-07",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/token.png&hash=506",
+    "eventDetails": [
+      {
+        "label": "奖池时间表",
+        "type": "preview",
+        "value": "https://gitee.com/tangletgo/and/raw/master/event/time_gashapon.jpg"
+      },
+      {
+        "label": "道具单价",
+        "value": "200"
+      },
+      {
+        "label": "初始票数",
+        "value": "3"
+      }
+    ],
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [{ "count": 25 }],
+        "targetLabel": "天",
+        "details": [
+          { "target": 1, "rewards": [{ "count": 5 }] },
+          { "target": 2, "rewards": [{ "count": 5 }] },
+          { "target": 3, "rewards": [{ "count": 5 }] },
+          { "target": 4, "rewards": [{ "count": 5 }] },
+          { "target": 5, "rewards": [{ "count": 5 }] }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [{ "count": 24 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 3, "rewards": [{ "count": 2 }] },
+          { "target": 6, "rewards": [{ "count": 2 }] },
+          { "target": 9, "rewards": [{ "count": 2 }] },
+          { "target": 12, "rewards": [{ "count": 2 }] },
+          { "target": 15, "rewards": [{ "count": 2 }] },
+          { "target": 20, "rewards": [{ "count": 2 }] },
+          { "target": 25, "rewards": [{ "count": 3 }] },
+          { "target": 30, "rewards": [{ "count": 3 }] },
+          { "target": 35, "rewards": [{ "count": 3 }] },
+          { "target": 40, "rewards": [{ "count": 3 }] }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [{ "count": 36 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 1 }] },
+          { "target": 4, "rewards": [{ "count": 1 }] },
+          { "target": 6, "rewards": [{ "count": 1 }] },
+          { "target": 8, "rewards": [{ "count": 1 }] },
+          { "target": 10, "rewards": [{ "count": 1 }] },
+          { "target": 12, "rewards": [{ "count": 2 }] },
+          { "target": 14, "rewards": [{ "count": 2 }] },
+          { "target": 16, "rewards": [{ "count": 2 }] },
+          { "target": 18, "rewards": [{ "count": 2 }] },
+          { "target": 20, "rewards": [{ "count": 2 }] },
+          { "target": 22, "rewards": [{ "count": 2 }] },
+          { "target": 24, "rewards": [{ "count": 3 }] },
+          { "target": 28, "rewards": [{ "count": 3 }] },
+          { "target": 30, "rewards": [{ "count": 3 }] },
+          { "target": 32, "rewards": [{ "count": 5 }] },
+          { "target": 35, "rewards": [{ "count": 5 }] }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [{ "count": 38 }],
+        "targetLabel": "次",
+        "details": [
+          { "target": 3, "rewards": [{ "count": 1 }] },
+          { "target": 6, "rewards": [{ "count": 1 }] },
+          { "target": 9, "rewards": [{ "count": 1 }] },
+          { "target": 12, "rewards": [{ "count": 2 }] },
+          { "target": 15, "rewards": [{ "count": 2 }] },
+          { "target": 18, "rewards": [{ "count": 2 }] },
+          { "target": 21, "rewards": [{ "count": 2 }] },
+          { "target": 24, "rewards": [{ "count": 2 }] },
+          { "target": 27, "rewards": [{ "count": 2 }] },
+          { "target": 30, "rewards": [{ "count": 2 }] },
+          { "target": 33, "rewards": [{ "count": 3 }] },
+          { "target": 36, "rewards": [{ "count": 3 }] },
+          { "target": 39, "rewards": [{ "count": 3 }] },
+          { "target": 42, "rewards": [{ "count": 3 }] },
+          { "target": 45, "rewards": [{ "count": 3 }] },
+          { "target": 48, "rewards": [{ "count": 3 }] },
+          { "target": 50, "rewards": [{ "count": 3 }] }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [{ "count": 31 }],
+        "targetLabel": "K",
+        "details": [
+          { "target": 40, "rewards": [{ "count": 1 }] },
+          { "target": 80, "rewards": [{ "count": 1 }] },
+          { "target": 120, "rewards": [{ "count": 1 }] },
+          { "target": 160, "rewards": [{ "count": 1 }] },
+          { "target": 200, "rewards": [{ "count": 1 }] },
+          { "target": 250, "rewards": [{ "count": 2 }] },
+          { "target": 300, "rewards": [{ "count": 2 }] },
+          { "target": 400, "rewards": [{ "count": 2 }] },
+          { "target": 500, "rewards": [{ "count": 2 }] },
+          { "target": 600, "rewards": [{ "count": 2 }] },
+          { "target": 700, "rewards": [{ "count": 2 }] },
+          { "target": 800, "rewards": [{ "count": 2 }] },
+          { "target": 900, "rewards": [{ "count": 3 }] },
+          { "target": 1000, "rewards": [{ "count": 3 }] },
+          { "target": 1100, "rewards": [{ "count": 3 }] },
+          { "target": 1200, "rewards": [{ "count": 3 }] }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [{ "count": 129 }],
+        "targetLabel": "个",
+        "details": [
+          { "target": 2, "rewards": [{ "count": 1 }] },
+          { "target": 4, "rewards": [{ "count": 1 }] },
+          { "target": 8, "rewards": [{ "count": 1 }] },
+          { "target": 12, "rewards": [{ "count": 1 }] },
+          { "target": 16, "rewards": [{ "count": 2 }] },
+          { "target": 20, "rewards": [{ "count": 2 }] },
+          { "target": 24, "rewards": [{ "count": 2 }] },
+          { "target": 30, "rewards": [{ "count": 2 }] },
+          { "target": 40, "rewards": [{ "count": 2 }] },
+          { "target": 60, "rewards": [{ "count": 4 }] },
+          { "target": 80, "rewards": [{ "count": 4 }] },
+          { "target": 100, "rewards": [{ "count": 4 }] },
+          { "target": 120, "rewards": [{ "count": 5 }] },
+          { "target": 140, "rewards": [{ "count": 5 }] },
+          { "target": 160, "rewards": [{ "count": 5 }] },
+          { "target": 180, "rewards": [{ "count": 5 }] },
+          { "target": 200, "rewards": [{ "count": 5 }] },
+          { "target": 220, "rewards": [{ "count": 6 }] },
+          { "target": 240, "rewards": [{ "count": 6 }] },
+          { "target": 260, "rewards": [{ "count": 6 }] },
+          { "target": 280, "rewards": [{ "count": 6 }] },
+          { "target": 300, "rewards": [{ "count": 6 }] },
+          { "target": 320, "rewards": [{ "count": 6 }] },
+          { "target": 350, "rewards": [{ "count": 6 }] },
+          { "target": 380, "rewards": [{ "count": 6 }] },
+          { "target": 420, "rewards": [{ "count": 6 }] },
+          { "target": 460, "rewards": [{ "count": 6 }] },
+          { "target": 500, "rewards": [{ "count": 6 }] },
+          { "target": 550, "rewards": [{ "count": 6 }] },
+          { "target": 600, "rewards": [{ "count": 6 }] }
+        ]
+      }
+    ],
+    "totalRewards": [{ "count": 283 }],
+    "exchangeList": [
+      { "remaining": 1, "total": 1, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 1800 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/232_shijianxianmofang.png&hash=506", "amount": 1 } },
+      { "remaining": 35, "total": 35, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 60 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionPiece/shoucangpinhuangxin.png&hash=506", "amount": 1 } },
+      { "remaining": 8, "total": 8, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 1000 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png&hash=506", "amount": 1 } },
+      { "remaining": 8, "total": 8, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 900 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_atk_7.png&hash=506", "amount": 1 } },
+      { "remaining": 8, "total": 8, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 900 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_def_7.png&hash=506", "amount": 1 } },
+      { "remaining": 10, "total": 10, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 650 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop.png&hash=506", "amount": 1 } },
+      { "remaining": 8, "total": 8, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 780 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png&hash=506", "amount": 1 } },
+      { "remaining": 8, "total": 8, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 500 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png&hash=506", "amount": 1 } },
+      { "remaining": 4, "total": 4, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 500 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/230_xiezhenji.png&hash=506", "amount": 1 } },
+      { "remaining": 5, "total": 5, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 50 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_21.png&hash=506", "amount": 1 } },
+      { "remaining": 35, "total": 35, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 45 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop3.png&hash=506", "amount": 1 } },
+      { "remaining": 60, "total": 60, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 30 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png&hash=506", "amount": 1 } },
+      { "remaining": 60, "total": 60, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 30 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png&hash=506", "amount": 1 } },
+      { "remaining": 60, "total": 60, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 15 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Hero_Exp.png&hash=506", "amount": 600 } },
+      { "remaining": 60, "total": 60, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 12 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/petiUI_Merchant_petExpItem1.png&hash=506", "amount": 600 } },
+      { "remaining": 10, "total": 10, "cost": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.5.1/UITexture/Gashapon/ticket.png&hash=506", "amount": 8 }, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png&hash=506", "amount": 5 } }
+    ],
+    "guildRewards": [
+      { "progress": 200, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png&hash=506", "count": 2 } },
+      { "progress": 600, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png&hash=506", "count": 3 } },
+      { "progress": 1000, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png&hash=506", "count": 5 } },
+      { "progress": 2000, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png&hash=506", "count": 6 } },
+      { "progress": 4000, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png&hash=506", "count": 8 } },
+      { "progress": 6000, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png&hash=506", "count": 1 } },
+      { "progress": 7200, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png&hash=506", "count": 1 } }
+    ],
+    "progressRewards": [
+      { "progress": 100, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/230_xiezhenji.png&hash=506", "count": 1 } },
+      { "progress": 180, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/230_xiezhenji.png&hash=506", "count": 1 } },
+      { "progress": 250, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png&hash=506", "count": 1 } },
+      { "progress": 350, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506", "count": 1 } },
+      { "progress": 700, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506", "count": 1 } },
+      { "progress": 1050, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506", "count": 1 } },
+      { "progress": 1400, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506", "count": 1 } },
+      { "progress": 1800, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506", "count": 1 } },
+      { "progress": 2200, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506", "count": 1 } },
+      { "progress": 2600, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506", "count": 1 } },
+      { "progress": 3000, "reward": { "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png&hash=506", "count": 1 } }
+    ]
+  },
+  
+  "_metadata": {
+    "nextFileName": "events2602"
+  }
+}

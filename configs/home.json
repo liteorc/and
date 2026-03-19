@@ -1,0 +1,179 @@
+[
+  {
+    "label": "首页",
+    "title": "置顶",
+    "icon": "",
+    "notice": "",
+    "poster": "",
+    "items": [
+      {
+        "label": "游戏资讯分享",
+        "icon": "/assets/WatchVideoIcon.png",
+        "path": "/notepad/pages/page?path=notepad.html&title=游戏资讯分享&adFree&reLaunch",
+        "badge": ""
+      },
+      {
+        "label": "活动进程表",
+        "icon": "/assets/MainUI_Button_richangqiandao.png",
+        "path": "/notepad/pages/page?path=timeline.html&title=活动进程表&reLaunch",
+        "badge": ""
+      },
+      {
+        "label": "活动数据查看",
+        "icon": "/assets/note.png",
+        "path": "/event/pages/index",
+        "badge": ""
+      },
+      {
+        "label": "词条查看工具",
+        "icon": "/assets/zhimingyuezhang.png",
+        "path": "/notepad/pages/index",
+        "badge": ""
+      },
+      {
+        "label": "配件谐振模拟器",
+        "icon": "/assets/HarmonyChip.png",
+        "path": "/misc/pages/accessory/harmony/index"
+      },
+      {
+        "label": "装备神铸模拟器",
+        "icon": "/assets/EquipSSStone.png",
+        "path": "/misc/pages/equip/forge/index",
+        "badge": ""
+      },
+      {
+        "label": "远征首领词条查询",
+        "icon": "/assets/WarningIcon_BossEnter.png",
+        "path": "/boss/pages/index",
+        "badge": ""
+      },
+      {
+        "label": "特工觉醒模拟器",
+        "icon": "/assets/Frag_Ash.png",
+        "path": "/cooperation/pages/index",
+        "badge": ""
+      },
+      {
+        "label": "异宠同步率计算器",
+        "icon": "/assets/Spet_Sync.png",
+        "path": "/xenopet/pages/index",
+        "badge": ""
+      },
+      {
+        "label": "公会币计算器",
+        "icon": "/assets/GongHuiBi.png",
+        "path": "/clan/pages/index",
+        "badge": ""
+      }
+    ]
+  },
+  {
+    "label": "活动",
+    "title": "活动相关",
+    "items": [
+      {
+        "label": "寻宝路径计算器",
+        "icon": "/assets/touzi.png",
+        "path": "/activity/pages/gridbased/index"
+      },
+      {
+        "label": "一番赏计算器",
+        "icon": "/assets/ChouJiangQuan.png",
+        "path": "/ichibankuji/pages/ichibankuji/index"
+      },
+      {
+        "label": "订单活动计算器",
+        "icon": "/assets/shalou.png",
+        "path": "/anniversaryorder/pages/index"
+      },
+      {
+        "label": "对对碰记牌器",
+        "icon": "/assets/token_icon.png",
+        "path": "/anniversarymatch/pages/index"
+      }
+    ]
+  },
+  {
+    "label": "特工",
+    "title": "特工相关",
+    "items": [
+      {
+        "label": "特工暴击计算器",
+        "icon": "/assets/ruodianshipo.png",
+        "path": "/crit/pages/index"
+      },
+      {
+        "label": "特工升级计算器",
+        "icon": "/assets/Hero_Exp.png",
+        "path": "/misc/pages/hero/levelup/index"
+      },
+      {
+        "label": "特工升星计算器",
+        "icon": "/assets/Frag_12.png",
+        "path": "/misc/pages/hero/starup/index"
+      },
+      {
+        "label": "特工觉醒计算器",
+        "icon": "/assets/WakeCore.png",
+        "path": "/misc/pages/hero/awake/index"
+      },
+      {
+        "label": "特工觉醒模拟器",
+        "icon": "/assets/Frag_Ash.png",
+        "path": "/cooperation/pages/index"
+      }
+    ]
+  },
+  {
+    "label": "其它",
+    "title": "其它分类",
+    "items": [
+      {
+        "label": "公会币计算器",
+        "icon": "/assets/GongHuiBi.png",
+        "path": "/clan/pages/index"
+      },
+      {
+        "label": "收藏品升星计算器",
+        "icon": "/assets/collection_drop_11.png",
+        "path": "/misc/pages/collection/starup/index"
+      },
+      {
+        "label": "异宠同步率计算器",
+        "icon": "/assets/Spet_Sync.png",
+        "path": "/xenopet/pages/index",
+        "badge": ""
+      },
+      {
+        "label": "月矿领地模拟器",
+        "icon": "/assets/MineUpgrade_icon.png",
+        "path": "/guild/pages/index"
+      },
+      {
+        "label": "宠物觉醒计算器",
+        "icon": "/assets/SPet_Entry.png",
+        "path": "/misc/pages/pet/awake/index"
+      },
+      {
+        "label": "远征首领词条查询",
+        "icon": "/assets/WarningIcon_BossEnter.png",
+        "path": "/boss/pages/index"
+      },
+      {
+        "label": "逃离天赋模拟器",
+        "icon": "/assets/TalentTreeIcon.png",
+        "path": "/escape/pages/index"
+      },
+      {
+        "label": "装备图纸计算器",
+        "icon": "/assets/MainUI_gameFailPack.png",
+        "path": "/misc/pages/equip/design/index"
+      },
+      {
+        "label": "神器神铸计算器",
+        "icon": "/assets/EquipSSStone.png",
+        "path": "/misc/pages/equip/forge/index"
+      }
+    ]
+  }
+]

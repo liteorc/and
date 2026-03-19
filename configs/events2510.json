@@ -1,0 +1,5962 @@
+{
+  "adventure1028": {
+    "id": "85488381",
+    "name": "古堡探险",
+    "startDate": "2025-10-28",
+    "endDate": "2025-11-01",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/ticket.png",
+    "eventDetails": [
+      {
+        "label": "道具单价",
+        "value": "60"
+      },
+      {
+        "label": "初始票数",
+        "value": "5"
+      }
+    ],
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [
+          {
+            "count": 250
+          }
+        ],
+        "targetLabel": "天",
+        "details": [
+          {
+            "target": 1,
+            "rewards": [
+              {
+                "count": 50
+              }
+            ]
+          },
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 50
+              }
+            ]
+          },
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 50
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 50
+              }
+            ]
+          },
+          {
+            "target": 5,
+            "rewards": [
+              {
+                "count": 50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [
+          {
+            "count": 74
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 10,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [
+          {
+            "count": 83
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 33,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [
+          {
+            "count": 143
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 33,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 36,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 39,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 42,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          },
+          {
+            "target": 45,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          },
+          {
+            "target": 48,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          },
+          {
+            "target": 50,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [
+          {
+            "count": 99
+          }
+        ],
+        "targetLabel": "K",
+        "details": [
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 250,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 400,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 700,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 800,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 900,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 1000,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 1100,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 1200,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [
+          {
+            "count": 511
+          }
+        ],
+        "targetLabel": "个",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 16,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 25,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 50,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 60,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 70,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 90,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 100,
+            "rewards": [
+              {
+                "count": 10
+              }
+            ]
+          },
+          {
+            "target": 110,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 130,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 140,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 150,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 170,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 180,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 190,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 15
+              }
+            ]
+          },
+          {
+            "target": 220,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 240,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 260,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 280,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 320,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 350,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 380,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 420,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 460,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 550,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalRewards": [
+      {
+        "count": 1160
+      }
+    ],
+    "exchangeList": [
+      {
+        "remaining": 1,
+        "total": 1,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": "23.5K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/201_jiyibianjiqi.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": "12.7K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": "11.4K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_atk_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": "11.4K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_def_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 8100
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 9800
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 6300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 6300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/199_xiaohuangya.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 650
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_21.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 580
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop3.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 380
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 380
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 160
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Hero_Exp.png",
+          "amount": 500
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 125
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/petiUI_Merchant_petExpItem1.png",
+          "amount": 500
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/RollDeck/token.png",
+          "amount": 100
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpecialOpsTicket.png",
+          "amount": 5
+        }
+      }
+    ],
+    "guildRewards": [],
+    "progressRewards": [
+      {
+        "progress": 50,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 8
+        }
+      },
+      {
+        "progress": 300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 8
+        }
+      },
+      {
+        "progress": 450,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 10
+        }
+      },
+      {
+        "progress": 600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/199_xiaohuangya.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 750,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/199_xiaohuangya.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 900,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/seniorselectBox1.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1700,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/seniorselectBox1.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2900,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3500,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/seniorselectBox1.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 4100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 4400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 4800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/seniorselectBox1.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 5300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 5800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/seniorselectBox1.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 6300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 6800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/seniorselectBox1.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 7300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 7800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/seniorselectBox1.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 8300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 8800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/seniorselectBox1.png",
+          "count": 1
+        }
+      }
+    ]
+  },
+  "straits1022": {
+    "id": "94804804",
+    "name": "飞跃海峡",
+    "startDate": "2025-10-22",
+    "endDate": "2025-10-26",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/3.8.2/UITexture/BridgeBuilding/chuizi_icon.png",
+    "eventDetails": [
+      {
+        "label": "道具单价",
+        "value": "160"
+      },
+      {
+        "label": "初始票数",
+        "value": "3"
+      }
+    ],
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [
+          {
+            "count": 25
+          }
+        ],
+        "targetLabel": "天",
+        "details": [
+          {
+            "target": 1,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 5,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [
+          {
+            "count": 35
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 10,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 14,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 16,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 22,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 25,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [
+          {
+            "count": 38
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 32,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 34,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [
+          {
+            "count": 41
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 33,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 36,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 39,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 42,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 45,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 48,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 50,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [
+          {
+            "count": 45
+          }
+        ],
+        "targetLabel": "K",
+        "details": [
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 250,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 400,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 700,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 800,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 900,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 1000,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 1100,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 1200,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [
+          {
+            "count": 165
+          }
+        ],
+        "targetLabel": "个",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 16,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 60,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 100,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 140,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 180,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 220,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 240,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 260,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 280,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 320,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 350,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 380,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 420,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 460,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 550,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalRewards": [
+      {
+        "count": 349
+      }
+    ],
+    "exchangeListHint":"该活动没有兑换列表",
+    "exchangeList": [],
+    "guildRewards": [
+      {
+        "progress": 25,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 50,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 350,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 500,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 750,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 1000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 1250,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      }
+    ],
+    "progressRewards": [
+      {
+        "progress": 3,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 5,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 10,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 15,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 25,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 35,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 45,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_drop_S.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 55,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 65,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 85,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 105,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 125,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 145,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 170,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 230,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 270,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 320,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 380,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 450,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 520,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 590,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      }
+    ]
+  },
+  "gachaEgg1016": {
+    "id": "35758902",
+    "name": "幸运扭蛋",
+    "startDate": "2025-10-16",
+    "endDate": "2025-10-20",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/token.png",
+    "eventDetails": [
+      {
+        "label": "道具单价",
+        "value": "200"
+      },
+      {
+        "label": "初始票数",
+        "value": "3"
+      }
+    ],
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [
+          {
+            "count": 25
+          }
+        ],
+        "targetLabel": "天",
+        "details": [
+          {
+            "target": 1,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 5,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [
+          {
+            "count": 24
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 25,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [
+          {
+            "count": 36
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 10,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 14,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 16,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 22,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 28,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 32,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [
+          {
+            "count": 38
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 33,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 36,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 39,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 42,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 45,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 48,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 50,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [
+          {
+            "count": 31
+          }
+        ],
+        "targetLabel": "K",
+        "details": [
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 250,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 400,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 700,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 800,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 900,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 1000,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 1100,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 1200,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [
+          {
+            "count": 129
+          }
+        ],
+        "targetLabel": "个",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 16,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 60,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 100,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 140,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 180,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 220,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 240,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 260,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 280,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 320,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 350,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 380,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 420,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 460,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 550,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalRewards": [
+      {
+        "count": 283
+      }
+    ],
+    "exchangeList": [
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 1000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_choose_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 650
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/pet_drop_0.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 780
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 250
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_20.png",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 80,
+        "total": 80,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 100
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PetIcon/PetStone.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 50
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_21.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 25,
+        "total": 25,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 90
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_choose_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 50
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemPet/PetToy_drop_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 210
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_R.png",
+          "amount": 10
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 30
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 60,
+        "total": 60,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 30
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/PetKeyLarge.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 100,
+        "total": 100,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 15
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Hero_Exp.png",
+          "amount": 600
+        }
+      },
+      {
+        "remaining": 100,
+        "total": 100,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 12
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/petiUI_Merchant_petExpItem1.png",
+          "amount": 600
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/Gashapon/ticket.png",
+          "amount": 8
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpecialOpsTicket.png",
+          "amount": 5
+        }
+      }
+    ],
+    "guildRewards": [
+      {
+        "progress": 200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 1000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 2000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 4000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png",
+          "count": 10
+        }
+      },
+      {
+        "progress": 6000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_S.png",
+          "count": 10
+        }
+      },
+      {
+        "progress": 7200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_20.png",
+          "count": 10
+        }
+      }
+    ],
+    "progressRewards": [
+      {
+        "progress": 100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/valentine.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 180,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroReset.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 260,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 340,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 420,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpetAssistReset.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 900,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/HeroPetselectBox.png",
+          "count": 1
+        }
+      }
+    ]
+  },
+  "candyMatch1010": {
+    "id": "14421315",
+    "name": "糖果消除",
+    "startDate": "2025-10-10",
+    "endDate": "2025-10-14",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TicketIcon.png",
+    "eventDetails": [
+      {
+        "label": "道具单价",
+        "value": "80"
+      },
+      {
+        "label": "初始票数",
+        "value": "10"
+      }
+    ],
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [
+          {
+            "count": 125
+          }
+        ],
+        "targetLabel": "天",
+        "details": [
+          {
+            "target": 1,
+            "rewards": [
+              {
+                "count": 25
+              }
+            ]
+          },
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 25
+              }
+            ]
+          },
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 25
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 25
+              }
+            ]
+          },
+          {
+            "target": 5,
+            "rewards": [
+              {
+                "count": 25
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [
+          {
+            "count": 52
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 25,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [
+          {
+            "count": 59
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 33,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [
+          {
+            "count": 120
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 10,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 14,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 16,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 22,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 26,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 28,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 32,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 34,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 36,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 38,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 42,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 44,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 46,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 48,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 50,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [
+          {
+            "count": 99
+          }
+        ],
+        "targetLabel": "K",
+        "details": [
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 250,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 400,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 700,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 800,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 900,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 1000,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 1100,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 1200,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [
+          {
+            "count": 455
+          }
+        ],
+        "targetLabel": "个",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 16,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 8
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          },
+          {
+            "target": 60,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 12
+              }
+            ]
+          },
+          {
+            "target": 100,
+            "rewards": [
+              {
+                "count": 16
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 16
+              }
+            ]
+          },
+          {
+            "target": 140,
+            "rewards": [
+              {
+                "count": 16
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 16
+              }
+            ]
+          },
+          {
+            "target": 180,
+            "rewards": [
+              {
+                "count": 16
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 16
+              }
+            ]
+          },
+          {
+            "target": 220,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 240,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 260,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 280,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 320,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 350,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 380,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 420,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 460,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 550,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 20
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalRewards": [
+      {
+        "count": 910
+      }
+    ],
+    "exchangeList": [
+      {
+        "remaining": 1,
+        "total": 1,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": "18.5K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/174_jiyinbianjiqi.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": "10K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 9000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_atk_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 6,
+        "total": 6,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 9000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_def_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 6500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 7800
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 8,
+        "total": 8,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 5000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 500
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_21.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 40,
+        "total": 40,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 450
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_drop3.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 300
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 120
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/petiUI_Merchant_petExpItem1.png",
+          "amount": 600
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 150
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Hero_Exp.png",
+          "amount": 600
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.2.0/UITexture/CandyCrush/Main/TokenIcon.png",
+          "amount": 50
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpecialOpsTicket.png",
+          "amount": 5
+        }
+      }
+    ],
+    "guildRewards": [
+      {
+        "progress": 500,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 1000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "count": 2
+        }
+      },
+      {
+        "progress": 2500,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 4500,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 7200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 10000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 15000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 8
+        }
+      },
+      {
+        "progress": 21000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      }
+    ],
+    "progressRewards": [
+      {
+        "progress": 50,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "count": 8
+        }
+      },
+      {
+        "progress": 350,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/AccessoryKey.png",
+          "count": 8
+        }
+      },
+      {
+        "progress": 500,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 650,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1650,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemAccessory/accessory_choose_7.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 2850,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 3600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 4350,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 5100,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 5850,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 6600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox1_resonanceAccessory.png",
+          "count": 1
+        }
+      }
+    ]
+  },
+  "plant1004": {
+    "id": "66837161",
+    "name": "魔法盆栽",
+    "startDate": "2025-10-04",
+    "endDate": "2025-10-08",
+    "ticketIcon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/ticket.png",
+    "eventDetails": [
+      {
+        "label": "道具单价",
+        "value": "300"
+      },
+      {
+        "label": "初始票数",
+        "value": "3"
+      }
+    ],
+    "dailyMissions": [
+      {
+        "name": "每日登录",
+        "rewards": [
+          {
+            "count": 25
+          }
+        ],
+        "targetLabel": "天",
+        "details": [
+          {
+            "target": 1,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          },
+          {
+            "target": 5,
+            "rewards": [
+              {
+                "count": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "主线章节",
+        "rewards": [
+          {
+            "count": 19
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 25,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "快速巡逻",
+        "rewards": [
+          {
+            "count": 23
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 33,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 35,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "特别行动",
+        "rewards": [
+          {
+            "count": 29
+          }
+        ],
+        "targetLabel": "次",
+        "details": [
+          {
+            "target": 3,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 6,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 9,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 15,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 18,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 21,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 27,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 33,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 36,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 39,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 42,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 45,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 48,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 50,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "击败怪物",
+        "rewards": [
+          {
+            "count": 31
+          }
+        ],
+        "targetLabel": "K",
+        "details": [
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 250,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 400,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 700,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 800,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 900,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 1000,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 1100,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 1200,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "开箱数量",
+        "rewards": [
+          {
+            "count": 121
+          }
+        ],
+        "targetLabel": "个",
+        "details": [
+          {
+            "target": 2,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 4,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 8,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 12,
+            "rewards": [
+              {
+                "count": 1
+              }
+            ]
+          },
+          {
+            "target": 16,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 20,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 24,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 30,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 40,
+            "rewards": [
+              {
+                "count": 2
+              }
+            ]
+          },
+          {
+            "target": 60,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 80,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 100,
+            "rewards": [
+              {
+                "count": 3
+              }
+            ]
+          },
+          {
+            "target": 120,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 140,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 160,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 180,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 200,
+            "rewards": [
+              {
+                "count": 4
+              }
+            ]
+          },
+          {
+            "target": 220,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 240,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 260,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 280,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 300,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 320,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 350,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 380,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 420,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 460,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 500,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 550,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          },
+          {
+            "target": 600,
+            "rewards": [
+              {
+                "count": 6
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "totalRewards": [
+      {
+        "count": 248
+      }
+    ],
+    "exchangeList": [
+      {
+        "remaining": 2,
+        "total": 2,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": "15K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 3,
+        "total": 3,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": "12.5K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S1_4.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 3,
+        "total": 3,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": "12.5K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S2_4.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 3,
+        "total": 3,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": "12.5K"
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S3_4.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 8000
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_drop_S.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 5800
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_choose_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 3700
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCollection/collection_drop_7.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 5,
+        "total": 5,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 370
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/PlayerIconUI/Frag_21.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 4,
+        "total": 4,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 3700
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/198_moliduorou.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 2,
+        "total": 2,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 3700
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/EquipRemould_EternityStone.png",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 2,
+        "total": 2,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 3700
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/EquipRemould_DestoryStone.png",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 2,
+        "total": 2,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 3700
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/EquipRemould_ChaoslStone.png",
+          "amount": 5
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 260
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 220
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxLarge.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 30,
+        "total": 30,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 220
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/CollectionKey.png",
+          "amount": 1
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 150
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/scroll_random.png",
+          "amount": 20
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 95
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/Hero_Exp.png",
+          "amount": 500
+        }
+      },
+      {
+        "remaining": 50,
+        "total": 50,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 75
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/MainUITopCurrency/petiUI_Merchant_petExpItem1.png",
+          "amount": 500
+        }
+      },
+      {
+        "remaining": 10,
+        "total": 10,
+        "cost": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/4.1.0/UITexture/Kitchen/token.png",
+          "amount": 60
+        },
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/SpecialOpsTicket.png",
+          "amount": 5
+        }
+      }
+    ],
+    "guildRewards": [],
+    "progressRewards": [
+      {
+        "progress": 10,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 20,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 3
+        }
+      },
+      {
+        "progress": 30,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 5
+        }
+      },
+      {
+        "progress": 60,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 8
+        }
+      },
+      {
+        "progress": 90,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemCommon/Currency_DiamondBoxSpecial.png",
+          "count": 10
+        }
+      },
+      {
+        "progress": 120,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/198_moliduorou.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 150,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/CollectionIcon/198_moliduorou.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 180,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 220,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 300,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 550,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 650,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/ItemEquipBox/equip_choose_S_4.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1000,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1200,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1400,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1600,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      },
+      {
+        "progress": 1800,
+        "reward": {
+          "icon": "https://wsrv.nl/?output=webp&url=https://garrytools.com/assets/img/survivor/UITexture/UICommon/selectBox_holyStone.png",
+          "count": 1
+        }
+      }
+    ]
+  },
+  "_metadata": {
+    "nextFileName": "events2509"
+  }
+}

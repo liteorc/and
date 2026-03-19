@@ -1,0 +1,716 @@
+[
+    {
+        "name": "能量制导系统",
+        "mode": "无人机",
+        "origin": [
+            {
+                "tier": 11,
+                "type": "技能伤害",
+                "value": 0.75
+            },
+            {
+                "tier": 16,
+                "type": "对衰弱目标伤害",
+                "value": 0.50
+            }
+        ],
+        "resonance": [
+            {
+                "energy": 100,
+                "type": "技能伤害",
+                "value": 0.20
+            },
+            {
+                "energy": 200,
+                "trigger": "selected",
+                "type": "易伤",
+                "value": 0.15
+            },
+            {
+                "energy": 300,
+                "type": "对衰弱目标伤害",
+                "value": 0.20
+            },
+            {
+                "energy": 450,
+                "type": "对衰弱目标伤害",
+                "value": 0.10
+            },
+            {
+                "energy": 450,
+                "type": "对衰弱目标伤害",
+                "value": 0.10
+            },
+            {
+                "energy": 600,
+                "trigger": "selected",
+                "type": "无人机导弹数量",
+                "value": 0.10
+            },
+            {
+                "energy": 600,
+                "type": "技能伤害",
+                "value": 0.25
+            },
+            {
+                "energy": 600,
+                "type": "对衰弱目标伤害",
+                "value": 0.20
+            },
+            {
+                "energy": 900,
+                "trigger": "selected",
+                "type": "无人机单发伤害",
+                "value": 0.30
+            },
+            {
+                "energy": 900,
+                "trigger": "selected",
+                "type": "易伤",
+                "value": 0.15
+            },
+            {
+                "energy": 1200,
+                "type": "对衰弱目标伤害",
+                "value": 0.15
+            },
+            {
+                "energy": 1650,
+                "type": "技能伤害",
+                "value": 0.15
+            },
+            {
+                "energy": 2100,
+                "trigger": "selected",
+                "type": "易伤",
+                "value": 0.15
+            },
+            {
+                "energy": 2550,
+                "type": "对衰弱目标伤害",
+                "value": 0.15
+            },
+            {
+                "energy": 3000,
+                "trigger": "selected",
+                "type": "无人机单发伤害",
+                "value": 0.30
+            },
+            {
+                "energy": 3000,
+                "type": "技能伤害",
+                "value": 0.15
+            },
+            {
+                "energy": 4500,
+                "trigger": "selected",
+                "type": "无人机导弹数量",
+                "value": 0.05
+            },
+            {
+                "energy": 6000,
+                "trigger": "selected",
+                "type": "无人机单发伤害",
+                "value": 0.30
+            },
+            {
+                "energy": 6000,
+                "trigger": "selected",
+                "type": "易伤",
+                "value": 0.15
+            },
+            {
+                "energy": 7500,
+                "type": "对衰弱目标伤害",
+                "value": 0.20
+            },
+            {
+                "energy": 9000,
+                "trigger": "selected",
+                "type": "无人机单发伤害",
+                "value": 0.30
+            },
+            {
+                "energy": 9000,
+                "type": "技能伤害",
+                "value": 0.30
+            },
+            {
+                "energy": 10500,
+                "trigger": "selected",
+                "type": "易伤",
+                "value": 0.20
+            },
+            {
+                "energy": 10500,
+                "type": "对衰弱目标伤害",
+                "value": 0.25
+            },
+            {
+                "energy": 12000,
+                "trigger": "selected",
+                "type": "无人机单发伤害",
+                "value": 0.30
+            },
+            {
+                "energy": 12000,
+                "type": "技能伤害",
+                "value": 0.30
+            },
+            {
+                "energy": 13500,
+                "trigger": "selected",
+                "type": "无人机导弹数量",
+                "value": 0.05
+            },
+            {
+                "energy": 13500,
+                "trigger": "selected",
+                "type": "易伤",
+                "value": 0.20
+            },
+            {
+                "energy": 13500,
+                "type": "对衰弱目标伤害",
+                "value": 0.25
+            },
+            {
+                "energy": 15000,
+                "trigger": "selected",
+                "type": "无人机导弹数量",
+                "value": 0.05
+            },
+            {
+                "energy": 15000,
+                "trigger": "selected",
+                "type": "无人机单发伤害",
+                "value": 0.30
+            },
+            {
+                "energy": 15000,
+                "type": "技能伤害",
+                "value": 0.30
+            }
+        ]
+    },
+    {
+        "name": "双绝枪",
+        "origin": [
+            {
+                "type": "技能伤害",
+                "value": 0.60
+            },
+            {
+                "type": "易伤",
+                "value": 0.10
+            }
+        ],
+        "eternal": [
+            {
+                "star": 3,
+                "type": "技能伤害",
+                "value": 0.10
+            },
+            {
+                "star": 5,
+                "type": "技能伤害",
+                "value": 0.10
+            }
+        ],
+        "void": [
+            {
+                "star": 2,
+                "type": "易伤",
+                "value": 0.20
+            }
+        ],
+        "chaos": [
+            {
+                "star": 2,
+                "type": "易伤",
+                "value": 0.10
+            },
+            {
+                "star": 4,
+                "type": "对衰弱目标伤害",
+                "value": 0.20
+            },
+            {
+                "star": 8,
+                "type": "对冰缓目标伤害",
+                "value": 0.30
+            }
+        ]
+    },
+    {
+        "name": "天启战衣",
+        "origin": [
+            {
+                "type": "无念",
+                "value": 0.20
+            }
+        ],
+        "eternal": [
+            {
+                "star": 1,
+                "type": "护盾增伤",
+                "value": 0.10
+            },
+            {
+                "star": 3,
+                "type": "护盾增伤",
+                "value": 0.10
+            },
+            {
+                "star": 5,
+                "type": "护盾增伤",
+                "value": 0.20
+            }
+        ],
+        "void": [
+            {
+                "star": 2,
+                "type": "技能伤害",
+                "value": 0.10
+            },
+            {
+                "star": 4,
+                "type": "无念",
+                "value": 0.15
+            }
+        ],
+        "chaos": [
+            {
+                "star": 2,
+                "type": "护盾增伤",
+                "value": 0.10
+            },
+            {
+                "star": 4,
+                "type": "技能伤害",
+                "value": 0.20
+            },
+            {
+                "star": 6,
+                "type": "技能伤害",
+                "value": 0.20
+            },
+            {
+                "star": 8,
+                "type": "对中毒目标伤害",
+                "value": 0.30
+            },
+            {
+                "star": 10,
+                "type": "护盾增伤",
+                "value": 0.30
+            }
+        ]
+    },
+    {
+        "name": "神罚项链",
+        "origin": [
+            {
+                "type": "对衰弱目标伤害",
+                "value": 0.25
+            }
+        ],
+        "eternal": [
+            {
+                "star": 1,
+                "type": "技能伤害",
+                "value": 0.50
+            },
+            {
+                "star": 3,
+                "type": "对衰弱目标伤害",
+                "value": 0.10
+            },
+            {
+                "star": 5,
+                "type": "对衰弱目标伤害",
+                "value": 0.04
+            }
+        ],
+        "void": [
+            {
+                "star": 2,
+                "type": "暴击伤害",
+                "value": 0.36
+            },
+            {
+                "star": 4,
+                "type": "暴击伤害",
+                "value": 0.60
+            }
+        ],
+        "chaos": [
+            {
+                "star": 2,
+                "type": "暴击伤害",
+                "value": 0.25
+            },
+            {
+                "star": 4,
+                "type": "技能伤害",
+                "value": 0.20
+            },
+            {
+                "star": 6,
+                "type": "技能伤害",
+                "value": 0.40
+            },
+            {
+                "star": 8,
+                "type": "对衰弱目标伤害",
+                "value": 0.30
+            },
+            {
+                "star": 10,
+                "type": "对衰弱目标伤害",
+                "value": 0.40
+            }
+        ]
+    },
+    {
+        "name": "星辰束腰",
+        "origin": [
+            {
+                "type": "永恒充能",
+                "value": 0.25
+            },
+            {
+                "type": "技能伤害",
+                "value": 0.30
+            }
+        ],
+        "eternal": [
+            {
+                "star": 1,
+                "type": "永恒充能",
+                "value": 0.25
+            },
+            {
+                "star": 3,
+                "type": "技能伤害",
+                "value": 0.25
+            },
+            {
+                "star": 5,
+                "type": "暴击伤害",
+                "value": 0.50
+            }
+        ],
+        "void": [
+            {
+                "star": 2,
+                "type": "护盾增伤",
+                "value": 0.10
+            },
+            {
+                "star": 4,
+                "type": "护盾增伤",
+                "value": 0.20
+            }
+        ],
+        "chaos": [
+            {
+                "star": 2,
+                "type": "技能伤害",
+                "value": 0.20
+            },
+            {
+                "star": 4,
+                "type": "暴击伤害",
+                "value": 0.20
+            },
+            {
+                "star": 6,
+                "type": "永恒充能",
+                "value": 0.15
+            },
+            {
+                "star": 8,
+                "type": "技能伤害+",
+                "value": 0.30
+            },
+            {
+                "star": 10,
+                "type": "护盾增伤",
+                "value": 0.30
+            }
+        ]
+    },
+    {
+        "name": "月殇护手",
+        "origin": [
+            {
+                "type": "暴击率",
+                "value": 0.30
+            },
+            {
+                "type": "护盾增伤",
+                "value": 0.10
+            },
+            {
+                "type": "永恒光束",
+                "value": 0.50
+            }
+        ],
+        "eternal": [
+            {
+                "star": 1,
+                "trigger": "conditional",
+                "type": "暴击伤害",
+                "value": 0.30
+            },
+            {
+                "star": 3,
+                "trigger": "conditional",
+                "type": "技能伤害",
+                "value": 0.30
+            },
+            {
+                "star": 5,
+                "trigger": "conditional",
+                "type": "暴击伤害",
+                "value": 1.00
+            }
+        ],
+        "void": [
+            {
+                "star": 2,
+                "type": "护盾增伤",
+                "value": 0.20
+            },
+            {
+                "star": 4,
+                "trigger": "temporary",
+                "type": "暴击率",
+                "value": 0.20
+            },
+            {
+                "star": 4,
+                "type": "永恒光束",
+                "value": 0.15
+            }
+        ],
+        "chaos": [
+            {
+                "star": 2,
+                "type": "护盾增伤",
+                "value": 0.20
+            },
+            {
+                "star": 4,
+                "type": "暴击伤害",
+                "value": 0.20
+            },
+            {
+                "star": 6,
+                "trigger": "temporary",
+                "type": "暴击伤害",
+                "value": 0.60
+            },
+            {
+                "star": 6,
+                "trigger": "temporary",
+                "type": "暴击率",
+                "value": 0.20
+            },
+            {
+                "star": 8,
+                "type": "对中毒目标伤害",
+                "value": 0.30
+            },
+            {
+                "star": 10,
+                "type": "护盾增伤",
+                "value": 0.20
+            },
+            {
+                "star": 10,
+                "type": "护盾增伤",
+                "value": 0.20
+            },
+            {
+                "star": 10,
+                "type": "暴击率",
+                "value": 0.20
+            },
+            {
+                "star": 10,
+                "type": "暴击伤害",
+                "value": 0.60
+            }
+        ]
+    },
+    {
+        "name": "冰霜战靴",
+        "origin": [
+            {
+                "type": "对冰缓目标伤害",
+                "value": 0.15
+            },
+            {
+                "type": "冰霜血脉",
+                "value": 0.60
+            }
+        ],
+        "eternal": [
+            {
+                "star": 1,
+                "type": "护盾增伤",
+                "value": 0.20
+            },
+            {
+                "star": 3,
+                "type": "护盾增伤",
+                "value": 0.21
+            },
+            {
+                "star": 5,
+                "type": "护盾增伤",
+                "value": 0.04
+            },
+            {
+                "star": 5,
+                "type": "冰霜血脉",
+                "value": 0.12
+            }
+        ],
+        "void": [
+            {
+                "star": 2,
+                "type": "对冰缓目标伤害",
+                "value": 0.20
+            },
+            {
+                "star": 4,
+                "type": "对冰缓目标伤害",
+                "value": 0.20
+            },
+            {
+                "star": 4,
+                "type": "易伤",
+                "value": 0.10
+            }
+        ],
+        "chaos": []
+    },
+    {
+        "name": "混乱融合之力",
+        "weapon": [
+            {
+                "star": 3,
+                "type": "易伤",
+                "value": 0.10
+            },
+            {
+                "star": 6,
+                "type": "易伤",
+                "value": 0.20
+            },
+            {
+                "star": 9,
+                "type": "技能伤害",
+                "value": 0.25
+            },
+            {
+                "star": 12,
+                "type": "护盾增伤",
+                "value": 0.10
+            },
+            {
+                "star": 12,
+                "type": "护技能伤害",
+                "value": 0.10
+            },
+            {
+                "star": 15,
+                "type": "护盾增伤",
+                "value": 0.10
+            },
+            {
+                "star": 15,
+                "type": "护技能伤害",
+                "value": 0.10
+            },
+            {
+                "star": 18,
+                "type": "护盾增伤",
+                "value": 0.10
+            },
+            {
+                "star": 18,
+                "type": "护技能伤害",
+                "value": 0.20
+            },
+            {
+                "star": 21,
+                "type": "易伤",
+                "value": 0.30
+            },
+            {
+                "star": 24,
+                "type": "暴击伤害",
+                "value": 0.30
+            },
+            {
+                "star": 27,
+                "type": "暴击伤害",
+                "value": 0.80
+            },
+            {
+                "star": 27,
+                "type": "技能伤害",
+                "value": 0.60
+            },
+            {
+                "star": 30,
+                "type": "对衰弱目标伤害",
+                "value": 0.25
+            },
+            {
+                "star": 30,
+                "type": "护盾增伤",
+                "value": 0.20
+            },
+            {
+                "star": 33,
+                "type": "暴击伤害",
+                "value": 0.40
+            },
+            {
+                "star": 33,
+                "type": "技能伤害",
+                "value": 0.40
+            },
+            {
+                "star": 36,
+                "type": "护盾增伤",
+                "value": 0.60
+            },
+            {
+                "star": 36,
+                "type": "暴击伤害",
+                "value": 0.75
+            },
+            {
+                "star": 42,
+                "type": "对精英/首领伤害",
+                "value": 0.10
+            },
+            {
+                "star": 45,
+                "type": "对精英/首领伤害",
+                "value": 0.10
+            },
+            {
+                "star": 45,
+                "type": "护盾增伤",
+                "value": 0.20
+            }
+        ]
+    }
+]

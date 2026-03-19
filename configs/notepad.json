@@ -1,0 +1,106 @@
+[
+  { 
+    "cover": "/notes/images/cover/cover_0807.png?imageMogr2/thumbnail/400x250/interlace/1", 
+    "avatar": "/notes/images/avatar/avatar.jpg", 
+    "author": "哒哒特攻", 
+    "path": "anniversary_preview.html", 
+    "title": "周年系列庆典活动", 
+    "intro": "《弹壳特攻队》三周年庆，即将正式启幕", 
+    "date": "8月6日", 
+    "time": "" 
+  },
+  {
+    "cover": "/notes/images/pet/cover_spet.jpg?imageMogr2/thumbnail/400x250/interlace/1",
+    "avatar": "/notes/images/avatar/avatar.jpg",
+    "author": "ダダサバイバー",
+    "path": "s_pet_preview.html",
+    "title": "异世宠物技能预览",
+    "intro": "噗噗豚和咕咕鸡即将加入战斗！",
+    "date": "8月3日",
+    "time": ""
+  },
+  {
+    "cover": "/notes/images/equip/belt2.png?imageMogr2/thumbnail/400x250/interlace/1",
+    "avatar": "/notes/images/avatar/avatar_playme.jpg",
+    "author": "Playme",
+    "path": "equip_update.html",
+    "title": "星辰束腰·创星破灭混沌融合",
+    "navbar": "SS腰带混沌融合",
+    "intro": "提升混沌融合之力星级，进一步强化双绝枪·创星破灭！",
+    "date": "8月1日",
+    "time": ""
+  },
+  { 
+    "cover": "/notes/images/cover/cover_events08.jpg?imageMogr2/thumbnail/400x250/interlace/1", 
+    "avatar": "/notes/images/avatar/avatar.jpg", 
+    "author": "哒哒特攻", 
+    "path": "upcoming_events.html", 
+    "title": "8月活动一览表", 
+    "navbar": "8月活动一览表", 
+    "intro": "满满的庆贺活动，周周都有惊喜等你解锁！", 
+    "date": "8月1日", 
+    "time": "" 
+  },
+  {
+    "cover": "/notes/images/cover/cover_3rd.png?imageMogr2/thumbnail/400x250/interlace/1",
+    "avatar": "/notes/images/avatar/avatar_tool.jpg",
+    "author": "弹壳小工具",
+    "path": "anniversary.html",
+    "title": "周年庆典内容介绍",
+    "intro": "全新周年庆典活动即将盛大登场!",
+    "date": "7月28日",
+    "time": ""
+  },
+  {
+    "cover": "/notes/images/cover/cover_taloxa.png?imageMogr2/thumbnail/400x250/interlace/1",
+    "avatar": "/notes/images/avatar/avatar_tool.jpg",
+    "author": "弹壳小工具",
+    "path": "new_survivor.html",
+    "title": "全新S特工-洛塔西娅即将登场!",
+    "navbar": "全新S特工-洛塔西娅",
+    "intro": "神秘机械生命体带来强大机甲战力！",
+    "date": "7月28日",
+    "time": ""
+  },
+  {
+    "cover": "/notes/images/cover/cover_box.png?imageMogr2/thumbnail/400x250/interlace/1",
+    "avatar": "/notes/images/avatar/avatar_botbenson.jpg",
+    "author": "Bot Benson",
+    "path": "timeline.html",
+    "title": "游戏时间线",
+    "intro": "可以在此页面找到即将到来的活动和信息。",
+    "date": "7月27日",
+    "time": ""
+  },
+  {
+    "cover": "/notes/images/survivor/bgTop23.png?imageMogr2/thumbnail/400x250/interlace/1",
+    "avatar": "/notes/images/avatar/avatar_chuige.jpg",
+    "author": "锤哥抡游戏",
+    "path": "taloxa_chuige.html",
+    "title": "全新S特工「洛塔西娅」详解!",
+    "navbar": "洛塔西娅技能详解",
+    "intro": "洛塔西娅技能详解一图流",
+    "date": "7月26日",
+    "time": ""
+  },
+  {
+    "cover": "/notes/images/cover/cover_pet.png?imageMogr2/thumbnail/400x250/interlace/1",
+    "avatar": "/notes/images/avatar/avatar_botbenson.jpg",
+    "author": "Bot Benson",
+    "path": "s_pet.html",
+    "title": "S宠物抢先预览",
+    "intro": "异世宠物系统上线，惊喜联名来袭!",
+    "date": "7月25日",
+    "time": ""
+  },
+  {
+    "cover": "/notes/images/cover/cover_activity.png?imageMogr2/thumbnail/400x250/interlace/1",
+    "avatar": "/notes/images/avatar/avatar_tool.jpg",
+    "author": "弹壳小工具",
+    "path": "update_assets.html",
+    "title": "4.0.0版本资源整理",
+    "intro": "周年庆版本更新内容整合，持续更新中~",
+    "date": "7月23日",
+    "time": ""
+  }
+]

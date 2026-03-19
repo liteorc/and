@@ -1,0 +1,391 @@
+{
+  "ARRAY_PRIZE": ["L", "A", "B", "C", "D", "E", "F", "G"],
+  "ARRAY_PRIZE_NAME": ["最终奖", "A奖", "B奖", "C奖", "D奖", "E奖", "F奖", "G奖"],
+  "ARRAY_PRIZE_EXCHANGE": [false, false, true, true, true, true, true, true],
+
+  "ARRAY_PRIZE_COUNT_2X80": [1, 1, 2, 3, 4, 20, 20, 30],
+  "ARRAY_PRIZE_COUNT_3X80": [1, 1, 2, 3, 4, 20, 20, 30],
+  "ARRAY_PRIZE_COUNT_1X160": [1, 1, 3, 6, 10, 40, 40, 60],
+  "ARRAY_PRIZE_COUNT_2X160": [1, 1, 3, 6, 10, 40, 40, 60],
+  "ARRAY_PRIZE_COUNT_3X160": [1, 2, 3, 6, 9, 40, 40, 60],
+  "ARRAY_PRIZE_COUNT_3X160#": [1, 1, 2, 5, 12, 40, 40, 60],
+  "ARRAY_PRIZE_COUNT_1X120": [1, 1, 3, 6, 10, 30, 30, 40],
+  "ARRAY_PRIZE_COUNT_2X120": [1, 1, 3, 6, 10, 30, 30, 40],
+  "ARRAY_PRIZE_COUNT_2X240": [1, 2, 4, 9, 15, 30, 90, 90],
+  "ARRAY_PRIZE_COUNT_3X120": [1, 1, 3, 6, 10, 30, 30, 40],
+
+  "ARRAY_PRIZE_SCORE_2X80": [360, 360, 180, 120, 90, 18, 18, 12],
+  "ARRAY_PRIZE_SCORE_3X80": [540, 540, 270, 180, 135, 27, 27, 18],
+
+  "ARRAY_PRIZE_SCORE_1X160": [360, 360, 120, 60, 36, 9, 9, 6],
+  "ARRAY_PRIZE_SCORE_2X160": [720, 720, 240, 120, 72, 18, 18, 12],
+  "ARRAY_PRIZE_SCORE_3X160": [540, 540, 360, 180, 120, 27, 27, 18],
+  "ARRAY_PRIZE_SCORE_3X160#": [1080, 1080, 540, 216, 90, 27, 27, 18],
+
+  "ARRAY_PRIZE_SCORE_1X120": [270, 270, 95, 45, 27, 9, 9, 6],
+  "ARRAY_PRIZE_SCORE_2X120": [540, 540, 180, 90, 54, 18, 18, 12],
+  "ARRAY_PRIZE_SCORE_3X120": [810, 810, 270, 135, 81, 27, 27, 18],
+
+  "ARRAY_PRIZE_SCORE_2X240": [540, 540, 270, 120, 72, 36, 12, 12],
+
+  "ARRAY_BRACKET_3X160": [
+    {
+      "name": "核心自选宝箱",
+      "iconArr": [
+        "seniorselectBox1",
+        "seniorselectBox1",
+        "collection_choose_7",
+        "collection_drop_7",
+        "Frag_19",
+        "Currency_DiamondBoxSpecial",
+        "Hero_Exp",
+        "petiUI_Merchant_petExpItem1"
+      ],
+      "iconTierArr": [7, 7, 7, 7, 7, 7, 3, 3],
+      "iconNumArr": [1, 1, 1, 1, 3, 2, 600, 600]
+    }
+  ],
+  "ARRAY_BRACKET_3X160#": [
+    {
+      "name": "核心自选宝箱",
+      "iconArr": [
+        "Surpass_core",
+        "seniorselectBox1",
+        "equip_choose_S_4",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxSpecial",
+        "Hero_Exp",
+        "petiUI_Merchant_petExpItem1"
+      ],
+      "iconTierArr": [7, 7, 4, 7, 7, 7, 3, 3],
+      "iconNumArr": [1, 1, 1, 15, 5, 2, 600, 600]
+    }
+  ],
+  "ARRAY_BRACKET_2X240": [{
+      "name": "传奇收藏品自选宝箱",
+      "iconArr": [
+        "selectBox1_resonanceAccessory",
+        "selectBox1_resonanceAccessory",
+        "collection_choose_7",
+        "collection_piece_drop_7",
+        "collection_piece_drop_7",
+        "CollectionKey",
+        "Hero_Exp",
+        "petiUI_Merchant_petExpItem1"
+      ],
+      "iconTierArr": [11, 11, 7, 7, 7, 4, 3, 3],
+      "iconNumArr": [1, 1, 1, 12, 6, 2, 300, 300]
+    },
+    {
+      "name": "神器核心自选宝箱",
+      "iconArr": [
+        "selectBox_holyStone",
+        "selectBox_holyStone",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxLarge",
+        "scroll_random"
+      ],
+      "iconTierArr": [7, 7, 7, 7, 7, 7, 4, 1],
+      "iconNumArr": [1, 1, 10, 6, 3, 1, 1, 25]
+    },
+    {
+      "name": "觉醒核心自选宝箱",
+      "iconArr": [
+        "selectBox_agentAwaken",
+        "selectBox_agentAwaken",
+        "Frag_20",
+        "Frag_20",
+        "Frag_20",
+        "Frag_S",
+        "Hero_Exp",
+        "petiUI_Merchant_petExpItem1"
+      ],
+      "iconTierArr": [7, 7, 7, 7, 7, 7, 3, 3],
+      "iconNumArr": [1, 1, 15, 5, 3, 2, 500, 500]
+    },
+    {
+      "name": "谐振芯片自选宝箱",
+      "iconArr": [
+        "selectBox_resonanceAccessory",
+        "selectBox_resonanceAccessory",
+        "accessory_choose_7",
+        "accessory_drop3",
+        "accessory_drop3",
+        "AccessoryKey",
+        "Hero_Exp",
+        "petiUI_Merchant_petExpItem1"
+      ],
+      "iconTierArr": [7, 7, 7, 7, 7, 4, 3, 3],
+      "iconNumArr": [1, 1, 1, 6, 3, 1, 300, 300]
+    }
+  ],
+
+
+
+  "ARRAY_BRACKET_3X80": [{
+      "name": "塔洛西娅碎片",
+      "iconArr": [
+        "Frag_20",
+        "Frag_20",
+        "Frag_20",
+        "Frag_20",
+        "Frag_20",
+        "Frag_S",
+        "Hero_Exp",
+        "Hero_Exp"
+      ],
+      "iconTierArr": [7, 7, 7, 7, 7, 7, 3, 3],
+      "iconNumArr": [25, 25, 10, 6, 3, 2, 1000, 500]
+    },
+    {
+      "name": "自选史诗配件",
+      "iconArr": [
+        "accessory_choose_7",
+        "accessory_choose_7",
+        "accessory_drop",
+        "accessory_drop3",
+        "accessory_drop3",
+        "Currency_DiamondBoxSpecial",
+        "AccessoryKey",
+        "PetKeyLarge"
+      ],
+      "iconTierArr": [7, 7, 7, 7, 7, 7, 4, 4],
+      "iconNumArr": [1, 1, 1, 10, 5, 1, 1, 1]
+    },
+    {
+      "name": "自选史诗收藏品",
+      "iconArr": [
+        "collection_choose_7",
+        "collection_choose_7",
+        "collection_drop_7",
+        "CollectionKey",
+        "collection_choose_4",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxLarge",
+        "CollectionKey"
+      ],
+      "iconTierArr": [7, 7, 7, 4, 4, 7, 4, 4],
+      "iconNumArr": [1, 1, 1, 15, 3, 1, 1, 1]
+    }
+  ],
+
+  "ARRAY_BRACKET_2X80": [{
+      "name": "塔洛西娅新春套装",
+      "iconArr": [
+        "Frag_9",
+        "Suit_26",
+        "Frag_9",
+        "Frag_9",
+        "Frag_9",
+        "Currency_DiamondBoxSpecial",
+        "CollectionKey",
+        "Currency_DiamondBoxSmall"
+      ],
+      "iconTierArr": [7, 7, 7, 7, 7, 7, 4, 3],
+      "iconNumArr": [15, 1, 6, 5, 2, 1, 1, 1]
+    },
+    {
+      "name": "技能外观自选宝箱",
+      "iconArr": [
+        "accessory_choose_7",
+        "SkillSkinselectBox3",
+        "accessory_drop3",
+        "accessory_drop3",
+        "AccessoryKey",
+        "AccessoryKey",
+        "CollectionKey",
+        "accessory_drop2"
+      ],
+      "iconTierArr": [7, 7, 7, 7, 4, 4, 4, 3],
+      "iconNumArr": [1, 1, 5, 3, 3, 1, 1, 2]
+    }
+  ],
+
+  "ARRAY_BRACKET_1X160": [{
+      "name": "随机杰出S装备",
+      "iconArr": [
+        "equip_drop_S",
+        "equip_drop_S",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxSpecial",
+        "Currency_DiamondBoxSpecial",
+        "equip_drop_0",
+        "PetKeySmall",
+        "Currency_DiamondBoxSmall"
+      ],
+      "iconTierArr": [4, 4, 7, 7, 7, 2, 3, 3],
+      "iconNumArr": [1, 1, 4, 3, 1, 1, 1, 1]
+    },
+    {
+      "name": "随机史诗宠物",
+      "iconArr": [
+        "PetStone",
+        "pet_drop_0",
+        "PetToy_drop_7",
+        "PetKeyLarge",
+        "pet_drop_0",
+        "SpecialOpsTicket",
+        "PetKeySmall",
+        "PetToy_drop_3"
+      ],
+      "iconTierArr": [7, 7, 7, 4, 4, 4, 3, 3],
+      "iconNumArr": [6, 1, 5, 5, 1, 1, 1, 3]
+    },
+    {
+      "name": "随机史诗配件",
+      "iconArr": [
+        "accessory_drop",
+        "accessory_drop",
+        "accessory_drop",
+        "AccessoryKey",
+        "accessory_drop",
+        "Currency_DiamondBoxSmall",
+        "PetKeySmall",
+        "accessory_drop"
+      ],
+      "iconTierArr": [7, 7, 7, 4, 4, 3, 3, 2],
+      "iconNumArr": [1, 1, 4, 5, 1, 1, 1, 1]
+    }
+  ],
+
+  "ARRAY_BRACKET_3X120": [{
+    "name": "塔洛西娅碎片",
+    "iconArr": [
+      "Frag_20",
+      "Frag_20",
+      "Frag_20",
+      "Frag_20",
+      "Frag_20",
+      "Frag_S",
+      "Hero_Exp",
+      "Hero_Exp"
+    ],
+    "iconTierArr": [7, 7, 7, 7, 7, 7, 3, 3],
+    "iconNumArr": [25, 25, 10, 6, 3, 2, 1000, 500]
+  }],
+  "ARRAY_BRACKET_1X120": [{
+    "name": "塔洛西娅头盔",
+    "iconArr": [
+      "Frag_20",
+      "Head_5097",
+      "Frag_20",
+      "Frag_20",
+      "Frag_20",
+      "Currency_DiamondBoxLarge",
+      "UICommon_RebornCoin_Icon",
+      "Currency_DiamondBoxSmall"
+    ],
+    "iconTierArr": [7, 7, 7, 7, 7, 4, 4, 3],
+    "iconNumArr": [10, 1, 3, 2, 1, 1, 1, 1]
+  }],
+
+  "ARRAY_BRACKET_2X120": [ 
+    {
+      "name": "自选史诗配件",
+      "iconArr": [
+        "accessory_choose_7",
+        "accessory_choose_7",
+        "accessory_drop3",
+        "AccessoryKey",
+        "accessory_drop3",
+        "Currency_DiamondBoxSpecial",
+        "AccessoryKey",
+        "accessory_drop1"
+      ],
+      "iconTierArr": [7, 7, 7, 4, 7, 7, 4, 2],
+      "iconNumArr": [1, 1, 8, 8, 2, 1, 1, 3]
+    },
+    {
+    "name": "自选杰出S装备",
+    "iconArr": [
+      "equip_choose_S_4",
+      "equip_choose_S_4",
+      "Currency_DiamondBoxSpecial",
+      "Currency_DiamondBoxSpecial",
+      "Currency_DiamondBoxSpecial",
+      "Currency_DiamondBoxSpecial",
+      "Currency_DiamondBoxLarge",
+      "scroll_random"
+    ],
+    "iconTierArr": [4, 4, 7, 7, 7, 7, 4, 3],
+    "iconNumArr": [1, 1, 6, 3, 2, 1, 1, 10]
+  }
+],
+
+  "DATA_INFO_ARRAY": [{
+      "name": "数量",
+      "description": "当前奖池的剩余奖项数量"
+    },
+    {
+      "name": "收益率",
+      "description": "总积分的钻石收益除以钻石消耗，该值仅供参考"
+    },
+    {
+      "name": "总积分",
+      "description": "奖项全部兑换后可获得的积分数量"
+    },
+    {
+      "name": "消耗钻石",
+      "description": "本轮消耗的所有抽奖券折算成的钻石数量"
+    },
+    {
+      "name": "用券数量",
+      "description": "全部收取时需要花费的抽奖券数量"
+    },
+    {
+      "name": "兑换积分",
+      "description": "指定的奖项兑换后可获得的积分数量"
+    },
+    {
+      "name": "实际耗钻",
+      "description": "积分全部兑换成抽奖券后本轮实际花费的钻石数量"
+    },
+    {
+      "name": "实际用券",
+      "description": "积分全部兑换成抽奖券后本轮实际消耗的抽奖券数量"
+    },
+    {
+      "name": "兑换券数",
+      "description": "指定的奖项全换成积分后可兑换的抽奖券数量"
+    }
+  ],
+
+  "GROUP_ARRAY": [
+    {
+      "price": 3,
+      "count": 160,
+      "name": "神炼核心#"
+    },
+    {
+      "price": 3,
+      "count": 160,
+      "name": "3票(160)"
+    },
+    {
+      "price": 2,
+      "count": 240,
+      "name": "2票(240)"
+    },
+    {
+      "price": 2,
+      "count": 120,
+      "name": "2票(120)"
+    },
+    {
+      "price": 3,
+      "count": 80,
+      "name": "3票(80)"
+    },
+    {
+      "price": 2,
+      "count": 80,
+      "name": "2票(80)"
+    }
+  ],
+
+  "showTips": ""
+}

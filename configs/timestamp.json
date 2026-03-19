@@ -1,0 +1,14 @@
+{
+  "calendar": 202501010101,
+  "gridbase": 202511180101,
+  "ichiban": 202602081201,
+  "notepad": 202508080101,
+  "home": 202603050901,
+
+  "ad":{
+    "interval": 28800000,
+    "popupAd":"adunit-41ad96f8ee1e3d4a",
+    "bannerAd_1":"adunit-e3d925ff79175872",
+    "bannerAd_2":"adunit-df7b1d45fcc8d26c"
+  }
+}

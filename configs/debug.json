@@ -1,0 +1,291 @@
+[
+    {
+        "name": "配件",
+        "icon": "https://gitee.com/tangletgo/and/raw/master/common/IconAccessory.png",
+        "items": [
+            {
+                "name": "骨骼湮灭装置",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/accessory/AccessoryCB2_16.png",
+                "path": "libs/acc_wheel.html"
+            },
+            {
+                "name": "相位辅助器",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/accessory/AccessoryCB5_16.png",
+                "path": "libs/acc_thunder.html",
+                "path2": "libs/acc_boomerang.html"
+            },
+            {
+                "name": "能量制导系统",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/accessory/AccessoryCB3_16.png",
+                "path": "libs/acc_drone.html",
+                "path2": "libs/acc_forcefield.html"
+            },
+            {
+                "name": "反物质维持装置",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/accessory/AccessoryCB6_16.png",
+                "path": "libs/acc_drill.html",
+                "path2": "libs/acc_rpg.html"
+            },
+            {
+                "name": "量子机器人",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/accessory/AccessoryCB4_16.png",
+                "path": "libs/acc_durian.html",
+                "path2": "libs/acc_football.html"
+            }
+        ]
+    },
+    {
+        "name": "装备",
+        "icon": "https://gitee.com/tangletgo/and/raw/master/common/IconEquip.png",
+        "items": [
+            {
+                "name": "双绝枪",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/equip/Equip_Weapon_9_Icon.png",
+                "path": "libs/equip_weapon_ss.html"
+            },
+            {
+                "name": "天启战衣",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/equip/Equip_Armor_9_Icon_Artifact.png",
+                "path": "libs/equip_armor_ss.html"
+            },
+            {
+                "name": "神罚项链",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/equip/Equip_Belt_9_Icon_Artifact.png",
+                "path": "libs/equip_necklace_ss.html"
+            },
+            {
+                "name": "星辰束腰",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/equip/Equip_Necklace_9_Icon_Artifact.png",
+                "path": "libs/equip_belt_ss.html"
+            },
+            {
+                "name": "月殇护手",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/equip/Equip_Gloves_9_Icon_Artifact.png",
+                "path": "libs/equip_gloves_ss.html"
+            },
+            {
+                "name": "冰霜战靴",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/equip/Equip_Shoe_9_Icon_Artifact.png",
+                "path": "libs/equip_shoes_ss.html"
+            }
+        ]
+    },
+    {
+        "name": "特工",
+        "icon": "https://gitee.com/tangletgo/and/raw/master/common/IconRole.png",
+        "items": [
+            {
+                "name": "塔洛西娅",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/survivor/Frag_20.png",
+                "path": "libs/hero_taloxa.html"
+            },
+            {
+                "name": "乔伊",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/survivor/Frag_19.png",
+                "path": "libs/hero_joey.html"
+            },
+            {
+                "name": "凛音",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/survivor/Frag_12.png",
+                "path": "libs/hero_metallia.html"
+            },
+            {
+                "name": "杨大师",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/survivor/Frag_9.png",
+                "path": "libs/hero_panda.html"
+            },
+            {
+                "name": "科萌",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/survivor/Frag_0.png",
+                "path": "libs/hero_common.html"
+            },
+            {
+                "name": "金",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/survivor/Frag_4.png",
+                "path": "libs/hero_king.html"
+            }
+        ]
+    },
+    {
+        "name": "宠物",
+        "icon": "https://gitee.com/tangletgo/and/raw/master/common/IconPet.png",
+        "items": [
+            {
+                "name": "雪炮冰王",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/pet/Head_Penguin.png",
+                "path": "libs/pet_penguin.html"
+            },
+            {
+                "name": "卡皮巴拉",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/pet/Head_Capy.png",
+                "path": "libs/pet_capy.html"
+            },
+            {
+                "name": "噗噗豚",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/pet/Head_Puffer.png",
+                "path": "libs/pet_puffer.html"
+            },
+            {
+                "name": "咕咕鸡",
+                "icon": "https://gitee.com/tangletgo/and/raw/master/pet/Head_Chicken.png",
+                "path": "libs/pet_chicken.html"
+            }
+        ]
+    },
+    {
+        "name": "收藏品",
+        "icon": "https://gitee.com/tangletgo/and/raw/master/common/IconCollection.png",
+        "items": [
+            {
+                "name": "实现童年的梦想",
+                "path": "libs/collect_set_pet.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/201_jiyibianjiqi.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/202_shijianhuisuchilun.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/203_kongjianhuisuchilun.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/204_mengjingxianyingye.png"
+                ]
+            },
+            {
+                "name": "金手指",
+                "path": "libs/collect_set_boomerang.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/112_mingyunduomiantou.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/203_kongjianhuisuchilun.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/205_feixingqijiaonang.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/206_naojixinpian.png"
+                ]
+            },
+            {
+                "name": "改写星系的记忆",
+                "path": "libs/collect_set_thunder.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/76_xinghebaozuan.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/201_jiyibianjiqi.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/145_minidaisenqiu.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/207_xingguichegnkeka.png"
+                ]
+            },
+            {
+                "name": "多元宇宙视角",
+                "path": "libs/collect_set_drill.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/81_zhenshizhiyan.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/173_mengjingpintu.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/175_shouhuozhilu.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/178_chongdongtanceqi.png"
+                ]
+            },
+            {
+                "name": "超维技术",
+                "path": "libs/collect_set_rpg.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/82_shengmingshalou.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/113_weidubo.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/36_chaojidianluban.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/118_tongxunhailuo.png"
+                ]
+            },
+            {
+                "name": "跨越星系的触手",
+                "path": "libs/collect_set_drone.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/32_xingjiyueqianjuzhentuzhi.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/144_chaonengshenjingyuan.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/116_shuidongtuilijiaopu.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/147_kelaiyinping.png"
+                ]
+            },
+            {
+                "name": "摹仿秀",
+                "path": "libs/collect_set_field.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/111_naminitaimianju.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/172_fuzhibaojing.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/177_yuzhouluopan.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/176_wuxianyinfu.png"
+                ]
+            },
+            {
+                "name": "打开虚空之门",
+                "path": "libs/collect_set_football.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/51_tianshizhileishuijing.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/75_yijieqiyao.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/146_weixingrenzaotaiyang.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/148_fanlizihulu.png"
+                ]
+            },
+            {
+                "name": "接近造物",
+                "path": "libs/collect_set_durian.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/141_yuanzijiqiren.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/142_shiguangqixiping.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/146_weixingrenzaotaiyang.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/148_fanlizihulu.png"
+                ]
+            },
+            {
+                "name": "在安全的场地进行试验",
+                "path": "libs/collect_set_shoes.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/171_saibotutengzhu.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/172_fuzhibaojing.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/173_mengjingpintu.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/174_jiyinbianjiqi.png"
+                ]
+            },
+            {
+                "name": "召唤神龙",
+                "path": "libs/collect_set_gloves.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/141_yuanzijiqiren.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/142_shiguangqixiping.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/143_longya.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/144_chaonengshenjingyuan.png"
+                ]
+            },
+            {
+                "name": "跨纬度行动",
+                "path": "libs/collect_set_belt.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/111_naminitaimianju.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/112_mingyunduomiantou.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/113_weidubo.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/114_yishitongbutoukui.png"
+                ]
+            },
+            {
+                "name": "生命的真谛",
+                "path": "libs/collect_set_necklace.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/79_gaoweidunengliangmofang.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/80_xukongzhihua.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/81_zhenshizhiyan.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/82_shengmingshalou.png"
+                ]
+            },
+            {
+                "name": "异界宝藏",
+                "path": "libs/collect_set_armor.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/31_buxiudexingyunyingbi.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/32_xingjiyueqianjuzhentuzhi.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/51_tianshizhileishuijing.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/52_dujiaoshoudejiao.png"
+                ]
+            },
+            {
+                "name": "智慧传承",
+                "path": "libs/collect_set_weapon.html",
+                "icons":[
+                    "https://gitee.com/tangletgo/and/raw/master/collection/1_renleijiyintupu.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/2_yuanguzhihuizhishu.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/75_yijieqiyao.png",
+                    "https://gitee.com/tangletgo/and/raw/master/collection/76_xinghebaozuan.png"
+                ]
+            }
+        ]
+    }
+]
