@@ -223,7 +223,7 @@
         "items": [
             {
                 "name": "坚果探员",
-                "icon": "https://gitee.com/tangletgo/and/raw/master/pet/Head_Squirrel.png",
+                "icon": "https://gitee.com/tangletgo/andtool_images/raw/master/pet/Head_Squirrel.png",
                 "path": "libs/pet_squirrel.html"
             },
             {

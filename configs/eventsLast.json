@@ -4,7 +4,7 @@
     "name": "特工快跑",
     "startDate": "2026-04-02",
     "endDate": "2026-04-06",
-    "ticketIcon": "https://gitee.com/tangletgo/and/raw/master/event/ticket_running.png",
+    "ticketIcon": "https://gitee.com/tangletgo/andtool_images/raw/master/event/ticket_running.png",
     "dailyMissionsHint": "数据暂未更新",
     "exchangeListHint": "数据暂未更新",
     "progressRewardsHint": "数据暂未更新",
@@ -12,7 +12,7 @@
       {
         "label": "玩法说明",
         "type": "preview",
-        "value": "https://gitee.com/tangletgo/and/raw/master/event/preview_running.jpg"
+        "value": "https://gitee.com/tangletgo/andtool_images/raw/master/event/preview_running.jpg"
       }
     ]
   },
@@ -27,12 +27,12 @@
         "label": "玩法说明",
         "text": "查看类似活动",
         "type": "preview",
-        "value": "https://gitee.com/tangletgo/and/raw/master/event/history_0910.jpg"
+        "value": "https://gitee.com/tangletgo/andtool_images/raw/master/event/history_0910.jpg"
       },
       {
         "label": "排行榜数据",
         "type": "preview",
-        "value": "https://gitee.com/tangletgo/and/raw/master/event/rank_0327.jpg"
+        "value": "https://gitee.com/tangletgo/andtool_images/raw/master/event/rank_0327.jpg"
       },
       {
         "label": "道具单价",
@@ -445,7 +445,7 @@
       {
         "progress": 100,
         "reward": {
-          "icon": "https://gitee.com/tangletgo/and/raw/master/update/460/avatar/item_80.png",
+          "icon": "https://gitee.com/tangletgo/andtool_images/raw/master/update/460/avatar/item_80.png",
           "count": 1
         }
       },
@@ -646,12 +646,12 @@
         "label": "玩法说明",
         "text": "查看类似活动",
         "type": "preview",
-        "value": "https://gitee.com/tangletgo/and/raw/master/event/history_0916.jpg"
+        "value": "https://gitee.com/tangletgo/andtool_images/raw/master/event/history_0916.jpg"
       },
       {
         "label": "排行榜数据",
         "type": "preview",
-        "value": "https://gitee.com/tangletgo/and/raw/master/event/rank_0321.jpg"
+        "value": "https://gitee.com/tangletgo/andtool_images/raw/master/event/rank_0321.jpg"
       },
       {
         "label": "道具单价",
@@ -1907,7 +1907,7 @@
       {
         "label": "排行榜数据",
         "type": "preview",
-        "value": "https://gitee.com/tangletgo/and/raw/master/event/rank_0309.jpg"
+        "value": "https://gitee.com/tangletgo/andtool_images/raw/master/event/rank_0309.jpg"
       },
       {
         "label": "道具单价",
@@ -2106,7 +2106,7 @@
       {
         "label": "奖池时间表",
         "type": "preview",
-        "value": "https://gitee.com/tangletgo/and/raw/master/event/time_gashapon.jpg"
+        "value": "https://gitee.com/tangletgo/andtool_images/raw/master/event/time_gashapon.jpg"
       },
       {
         "label": "道具单价",
